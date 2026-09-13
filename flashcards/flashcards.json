@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What are the two active transport mechanisms for monosaccharide absorption in the small intestine?",
+    "back": "Glucose and galactose are absorbed via sodium-dependent active transport (SGLT1), while fructose is absorbed via facilitated diffusion (GLUT5)."
+  },
+  {
+    "id": 2,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What is the physiological role of soluble dietary fibre after it reaches the colon?",
+    "back": "Soluble fibre is fermented by gut bacteria into short-chain fatty acids, which support colonocyte health and may favourably influence lipid metabolism and glycemic response."
+  },
+  {
+    "id": 3,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What two protein quality scoring systems does a Canadian dietitian use to evaluate plant-based diets?",
+    "back": "The Protein Digestibility Corrected Amino Acid Score (PDCAAS) and the Digestible Indispensable Amino Acid Score (DIAAS) both measure how well a protein source supplies indispensable amino acids in digestible form."
+  },
+  {
+    "id": 4,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What structure transports absorbed dietary fat from the enterocyte into circulation?",
+    "back": "Reassembled triglycerides are packaged into chylomicrons within the enterocyte and transported first through the lymphatic system before entering the bloodstream."
+  },
+  {
+    "id": 5,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Which two fatty acids are considered essential and must come from the diet?",
+    "back": "Linoleic acid (an omega-6 fatty acid) and alpha-linolenic acid (an omega-3 fatty acid) cannot be synthesized by the body and must be obtained from food sources such as vegetable oils, nuts, seeds, and fatty fish."
+  },
+  {
+    "id": 6,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Why are fat-soluble vitamins a greater toxicity concern than water-soluble vitamins?",
+    "back": "Fat-soluble vitamins (A, D, E, K) are stored in the liver and adipose tissue rather than being readily excreted, so excessive supplementation can accumulate to toxic levels over time."
+  },
+  {
+    "id": 7,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Why is vitamin D status a particular concern in Canadian dietetic practice?",
+    "back": "Limited sun exposure through much of the year at northern latitudes reduces cutaneous vitamin D synthesis, so Health Canada recommends routine consideration of intake or supplementation, especially for older adults, breastfed infants, and people with limited sun exposure."
+  },
+  {
+    "id": 8,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Why does Health Canada mandate folic acid fortification of white flour, pasta, and cornmeal?",
+    "back": "Adequate folate intake before and during early pregnancy reduces the risk of neural tube defects, so mandatory fortification helps protect the general population, including pregnancies that may not yet be recognized."
+  },
+  {
+    "id": 9,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Who is at elevated risk of vitamin B12 deficiency and why?",
+    "back": "Individuals who have had gastric surgery, strict vegans, and older adults with reduced gastric acid production are at higher risk, because B12 absorption depends on intrinsic factor from gastric parietal cells and on adequate stomach acid to release B12 from food protein."
+  },
+  {
+    "id": 10,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What is the key difference between heme and non-heme dietary iron absorption?",
+    "back": "Heme iron, from animal tissue, is absorbed efficiently via a dedicated transporter, while non-heme iron, from plant sources, is absorbed less efficiently and is influenced by enhancers like vitamin C and inhibitors like phytates and tannins."
+  },
+  {
+    "id": 11,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Why might reducing sodium intake inadvertently reduce iodine intake in Canada?",
+    "back": "Iodine is supplied in Canada primarily through iodized table salt, so clients reducing sodium for blood pressure management may also reduce their iodine intake unless counselled to choose iodized salt in moderation or other iodine sources."
+  },
+  {
+    "id": 12,
+    "domain": "food_and_nutrition_expertise",
+    "front": "How does long-term proton pump inhibitor use affect nutrient status?",
+    "back": "Proton pump inhibitors reduce gastric acid production, which can impair the absorption of vitamin B12, calcium, and iron with long-term use."
+  },
+  {
+    "id": 13,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What dietary counselling approach is used for a client on warfarin therapy?",
+    "back": "Because vitamin K antagonizes warfarin's anticoagulant effect, dietitians counsel for consistency in day-to-day vitamin K intake rather than eliminating vitamin K-rich foods entirely."
+  },
+  {
+    "id": 14,
+    "domain": "food_and_nutrition_expertise",
+    "front": "How does grapefruit juice interact with certain medications?",
+    "back": "Grapefruit juice inhibits the cytochrome P450 3A4 enzyme in the intestinal wall, which can raise blood levels of many statins and calcium channel blockers."
+  },
+  {
+    "id": 15,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What food-medication interaction is a concern for clients taking monoamine oxidase inhibitors?",
+    "back": "Tyramine-containing aged, fermented, or cured foods can precipitate a hypertensive crisis in clients taking monoamine oxidase inhibitors, so intake of these foods must be limited."
+  },
+  {
+    "id": 16,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What is the Estimated Average Requirement (EAR) used for in dietetic practice?",
+    "back": "The EAR is the intake level estimated to meet the needs of half the healthy individuals in a life stage and sex group, and it is the value used to assess the adequacy of a group's intake."
+  },
+  {
+    "id": 17,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What is the Recommended Dietary Allowance (RDA) and when is it used?",
+    "back": "The RDA is set at roughly the EAR plus two standard deviations to meet the needs of nearly all healthy individuals in a group, and it is used to plan and evaluate intake for individual clients."
+  },
+  {
+    "id": 18,
+    "domain": "food_and_nutrition_expertise",
+    "front": "When is an Adequate Intake (AI) value used instead of an RDA?",
+    "back": "An AI is used when there is insufficient evidence to set an Estimated Average Requirement, representing an observed or approximated intake level assumed to be adequate."
+  },
+  {
+    "id": 19,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What does the Tolerable Upper Intake Level (UL) represent?",
+    "back": "The UL is the highest average daily nutrient intake likely to pose no risk of adverse health effects to almost all individuals, and it is particularly relevant when assessing supplement or fortified food use."
+  },
+  {
+    "id": 20,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What are the Acceptable Macronutrient Distribution Ranges (AMDR) for adults?",
+    "back": "For adults, the AMDR is roughly 45 to 65 percent of energy from carbohydrate, 10 to 35 percent from protein, and 20 to 35 percent from fat."
+  },
+  {
+    "id": 21,
+    "domain": "food_and_nutrition_expertise",
+    "front": "How does Canada's Food Guide (2019) divide the plate?",
+    "back": "Half the plate is vegetables and fruits, one quarter is protein foods with an emphasis on plant-based sources, and one quarter is whole grain foods, with water recommended as the drink of choice."
+  },
+  {
+    "id": 22,
+    "domain": "food_and_nutrition_expertise",
+    "front": "How did the 2019 Canada's Food Guide change from the previous edition's approach?",
+    "back": "It moved away from four food groups and prescribed serving sizes toward a plate-based visual and broader healthy eating behaviour guidance, such as cooking more often and eating mindfully."
+  },
+  {
+    "id": 23,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What behaviours, beyond food choice, does the 2019 Canada's Food Guide emphasize?",
+    "back": "It emphasizes cooking more often, eating meals mindfully, enjoying food, eating with others when possible, using food labels, and being mindful of food marketing influence."
+  },
+  {
+    "id": 24,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What is the Canadian Nutrient File?",
+    "back": "The Canadian Nutrient File, maintained by Health Canada, is the primary reference database of nutrient values for foods commonly consumed in Canada and underlies most Canadian nutrient analysis software."
+  },
+  {
+    "id": 25,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What percent Daily Value thresholds indicate a food is low or high in a nutrient?",
+    "back": "A percent Daily Value of 5 percent or less is considered low in that nutrient, while 15 percent or more is considered high, as shown on the Nutrition Facts table."
+  },
+  {
+    "id": 26,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Why must nutrient retention during cooking be considered in food composition analysis?",
+    "back": "Heat-sensitive water-soluble vitamins such as vitamin C and folate can be significantly reduced during cooking, so analyzing a prepared recipe requires accounting for retention factors rather than using raw ingredient values alone."
+  },
+  {
+    "id": 27,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Why is a randomized controlled trial generally considered stronger evidence than an observational cohort study?",
+    "back": "Randomization helps control for confounding variables, allowing researchers to more confidently attribute an outcome to the intervention rather than to an unmeasured factor, whereas observational studies can only show association."
+  },
+  {
+    "id": 28,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What is recall bias and why does it matter in dietary research?",
+    "back": "Recall bias occurs when participants inaccurately remember or report their past dietary intake, which can distort the results of studies relying on self-reported food records or dietary recalls."
+  },
+  {
+    "id": 29,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What is the Mifflin-St Jeor equation used for?",
+    "back": "It is a predictive equation commonly used in Canadian clinical practice to estimate resting energy expenditure from weight, height, age, and sex, then adjusted with an activity factor to estimate total energy needs."
+  },
+  {
+    "id": 30,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Why is indirect calorimetry preferred over predictive equations in critical illness?",
+    "back": "Predictive equations are known to be less reliable in complex clinical situations such as critical illness, so a measured value from indirect calorimetry provides a more accurate estimate of energy expenditure."
+  },
+  {
+    "id": 31,
+    "domain": "food_and_nutrition_expertise",
+    "front": "Why is excess sodium intake a Canadian public health nutrition priority?",
+    "back": "Sodium is the primary determinant of extracellular fluid volume, and excess intake, common with processed and restaurant foods, is linked to elevated blood pressure in sodium-sensitive individuals, prompting Health Canada's sodium reduction strategy."
+  },
+  {
+    "id": 32,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What is the clinical significance of potassium as the principal intracellular cation?",
+    "back": "Potassium supports normal cardiac and neuromuscular function, and both hypokalemia and hyperkalemia carry cardiac risk, making potassium status important in renal and cardiac dietetic care."
+  },
+  {
+    "id": 33,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What condition results from acute thiamin deficiency affecting the nervous system?",
+    "back": "Wernicke's encephalopathy is the acute neurological form of thiamin deficiency and is a medical emergency requiring prompt recognition and treatment."
+  },
+  {
+    "id": 34,
+    "domain": "food_and_nutrition_expertise",
+    "front": "How does soaking or fermenting legumes and grains improve mineral absorption?",
+    "back": "These preparation methods reduce phytate content, and since phytates inhibit mineral absorption (particularly zinc and iron), reducing them improves the bioavailability of these minerals."
+  },
+  {
+    "id": 35,
+    "domain": "food_and_nutrition_expertise",
+    "front": "What three laboratory markers does a dietitian interpret together to assess iron status?",
+    "back": "Serum ferritin, transferrin saturation, and hemoglobin are interpreted together with dietary history to distinguish depleted iron stores, iron-deficient erythropoiesis, and overt iron-deficiency anemia."
+  },
+  {
+    "id": 36,
+    "domain": "professionalism_and_ethics",
+    "front": "What is a provincial dietetic regulatory college's core function?",
+    "back": "To protect the public interest by setting standards of practice, registering qualified applicants, investigating complaints, and disciplining members whose conduct falls below the expected standard."
+  },
+  {
+    "id": 37,
+    "domain": "professionalism_and_ethics",
+    "front": "How does a provincial regulatory college differ from Dietitians of Canada?",
+    "back": "The college has legal authority under provincial health professions legislation to license and discipline registrants, while Dietitians of Canada is the national professional association that advocates for the profession and supports members without disciplinary authority."
+  },
+  {
+    "id": 38,
+    "domain": "professionalism_and_ethics",
+    "front": "What is self-regulation in the context of dietetics?",
+    "back": "The privilege, granted by government, for the dietetic profession to set its own standards and discipline its own members, in exchange for a reciprocal obligation to place public protection ahead of the profession's own interests."
+  },
+  {
+    "id": 39,
+    "domain": "professionalism_and_ethics",
+    "front": "Which province does not use the CDRE for dietitian registration?",
+    "back": "Quebec, which has its own separate registration pathway through the Ordre professionnel des dietetistes du Quebec."
+  },
+  {
+    "id": 40,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the difference between standards of practice and the Code of Ethics?",
+    "back": "Standards of practice are specific, measurable, and enforceable expected behaviours, while the Code of Ethics provides the underlying values and principles that guide judgment in situations the standards do not explicitly address."
+  },
+  {
+    "id": 41,
+    "domain": "professionalism_and_ethics",
+    "front": "How is scope of practice for dietitians defined in Canada?",
+    "back": "Scope of practice is defined provincially and can vary slightly between jurisdictions, although the core competencies for RD registration are established nationally and are consistent across Canada."
+  },
+  {
+    "id": 42,
+    "domain": "professionalism_and_ethics",
+    "front": "Name the four core values in the Canadian dietetic Code of Ethics.",
+    "back": "Client wellbeing, client self-determination, integrity in professional relationships, and responsible use of knowledge and skill."
+  },
+  {
+    "id": 43,
+    "domain": "professionalism_and_ethics",
+    "front": "What does client self-determination require of an RD?",
+    "back": "Respecting the client's right to make their own informed decisions about their care, even if the RD disagrees, provided the client has capacity and has received the information needed to decide meaningfully."
+  },
+  {
+    "id": 44,
+    "domain": "professionalism_and_ethics",
+    "front": "What should an RD do when a capable client insists on an approach the RD believes is unsafe?",
+    "back": "Provide full, evidence-based information, document the discussion, respect the client's final decision, avoid coercion, and continue to offer support, since the RD cannot override a capable adult's autonomous decision."
+  },
+  {
+    "id": 45,
+    "domain": "professionalism_and_ethics",
+    "front": "What does responsible use of knowledge and skill require of an RD?",
+    "back": "Practising only within demonstrated competence, staying current with evolving evidence, and representing one's qualifications accurately."
+  },
+  {
+    "id": 46,
+    "domain": "professionalism_and_ethics",
+    "front": "List the four elements required for valid informed consent.",
+    "back": "The consent must be specific to the proposed treatment, given voluntarily without coercion, informed with understanding of risks and alternatives, and given by a person with the capacity to consent."
+  },
+  {
+    "id": 47,
+    "domain": "professionalism_and_ethics",
+    "front": "What does it mean that capacity is decision-specific and time-specific?",
+    "back": "A client may have capacity to consent to a simple intervention while lacking capacity for a more complex one, and capacity can change over time due to illness or cognitive status."
+  },
+  {
+    "id": 48,
+    "domain": "professionalism_and_ethics",
+    "front": "What should an RD do when a client lacks capacity to consent?",
+    "back": "Identify and work with the appropriate substitute decision-maker as defined by provincial legislation, following the hierarchy set out in that legislation."
+  },
+  {
+    "id": 49,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the difference between express and implied consent?",
+    "back": "Express consent is explicitly stated verbally or in writing, while implied consent is inferred from the circumstances, such as a client voluntarily providing assessment information."
+  },
+  {
+    "id": 50,
+    "domain": "professionalism_and_ethics",
+    "front": "Can a client withdraw consent partway through an intervention?",
+    "back": "Yes, consent is an ongoing process, and the RD must respect a client's withdrawal of consent at any time, even mid-intervention."
+  },
+  {
+    "id": 51,
+    "domain": "professionalism_and_ethics",
+    "front": "What legislation in Ontario governs health information custodians' handling of personal health information?",
+    "back": "The Personal Health Information Protection Act (PHIPA), which governs how health information custodians, including RDs providing health care, collect, use, retain, and disclose personal health information."
+  },
+  {
+    "id": 52,
+    "domain": "professionalism_and_ethics",
+    "front": "What is PIPEDA and when does it apply to dietitians?",
+    "back": "The Personal Information Protection and Electronic Documents Act governs collection, use, and disclosure of personal information by private-sector organizations engaged in commercial activity, applying to many private-practice dietitians where no substantially similar provincial law takes precedence."
+  },
+  {
+    "id": 53,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the 'circle of care'?",
+    "back": "The group of health professionals directly involved in a client's treatment who may share health information among themselves without requiring separate express consent for each disclosure, because such sharing is implied by the client's decision to seek care."
+  },
+  {
+    "id": 54,
+    "domain": "professionalism_and_ethics",
+    "front": "When can personal health information be disclosed without client consent?",
+    "back": "In specific legally defined circumstances, such as a duty to report certain communicable diseases to public health, a court order, or a genuine and imminent risk of serious harm to the client or an identifiable third party."
+  },
+  {
+    "id": 55,
+    "domain": "professionalism_and_ethics",
+    "front": "What should an RD do after discovering a privacy breach, such as leaving a chart visible to other patients?",
+    "back": "Report the breach according to the employer's and regulatory college's breach protocols, which in many provinces also requires notifying the client and, for serious breaches, the relevant privacy commissioner."
+  },
+  {
+    "id": 56,
+    "domain": "professionalism_and_ethics",
+    "front": "Is discussing a client with a family member who is not a substitute decision-maker permitted without consent?",
+    "back": "No, sharing information outside the circle of care, including with family members who are not substitute decision-makers, requires explicit client consent unless a specific legal exception applies."
+  },
+  {
+    "id": 57,
+    "domain": "professionalism_and_ethics",
+    "front": "Define conflict of interest in dietetic practice.",
+    "back": "A situation where a dietitian's personal, financial, or other interests could improperly influence, or appear to influence, their professional judgment or the objectivity of advice given to a client."
+  },
+  {
+    "id": 58,
+    "domain": "professionalism_and_ethics",
+    "front": "Give an example of a common conflict of interest in dietetic practice.",
+    "back": "Selling supplements directly to clients for personal profit, or receiving payment or gifts from a company whose products the RD then recommends."
+  },
+  {
+    "id": 59,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the operative principle for managing a disclosed conflict of interest?",
+    "back": "Transparency, so that a client who is fully informed of a financial relationship can decide, with that knowledge, whether to proceed with the RD's services."
+  },
+  {
+    "id": 60,
+    "domain": "professionalism_and_ethics",
+    "front": "Is failing to disclose a conflict of interest still a breach if the advice given is sound?",
+    "back": "Yes, because non-disclosure deprives the client of information relevant to evaluating the advice, independent of the outcome."
+  },
+  {
+    "id": 61,
+    "domain": "professionalism_and_ethics",
+    "front": "What core activities fall within most Canadian RDs' scope of practice?",
+    "back": "Nutrition assessment, diagnosis of nutrition problems, and nutrition intervention."
+  },
+  {
+    "id": 62,
+    "domain": "professionalism_and_ethics",
+    "front": "Give an example of an expanded scope activity some provinces authorize for RDs.",
+    "back": "Ordering specific laboratory tests relevant to nutrition care, or adjusting insulin doses within a collaborative care plan, typically requiring additional certification beyond baseline RD registration."
+  },
+  {
+    "id": 63,
+    "domain": "professionalism_and_ethics",
+    "front": "Why must an RD confirm exactly what expanded scope activities their own province authorizes?",
+    "back": "Because expanded scope activities vary by province and require additional certification, so an activity permitted in one province may not be authorized in another."
+  },
+  {
+    "id": 64,
+    "domain": "professionalism_and_ethics",
+    "front": "How should an RD approach a texture-modified diet decision that also involves a speech-language pathologist?",
+    "back": "Through collaborative communication respecting both professionals' overlapping expertise, rather than one professional unilaterally overriding the other's recommendations."
+  },
+  {
+    "id": 65,
+    "domain": "professionalism_and_ethics",
+    "front": "What happens when a dietitian practises outside their authorized scope?",
+    "back": "It exposes both the client and the dietitian to risk and may result in disciplinary consequences from the regulatory college, regardless of the actual outcome."
+  },
+  {
+    "id": 66,
+    "domain": "professionalism_and_ethics",
+    "front": "What does professional accountability mean for an RD?",
+    "back": "Each RD is personally responsible for their own practice decisions and cannot delegate that responsibility to a supervisor, employer, or institutional policy."
+  },
+  {
+    "id": 67,
+    "domain": "professionalism_and_ethics",
+    "front": "Is 'my employer told me to' a valid defence against a finding of professional misconduct?",
+    "back": "No, regulatory colleges consistently hold that following an employer's conflicting policy is not a valid defence if it results in a breach of a professional standard."
+  },
+  {
+    "id": 68,
+    "domain": "professionalism_and_ethics",
+    "front": "What should an RD do if an employer's policy conflicts with a professional standard of practice?",
+    "back": "Raise the concern, document it, and, if the conflict cannot be resolved, decline to act in a manner that would breach the standard, even at professional or employment risk."
+  },
+  {
+    "id": 69,
+    "domain": "professionalism_and_ethics",
+    "front": "What is a continuing competence program?",
+    "back": "A required cyclical process of self-assessment against defined competencies, development of a learning plan, completion of continuing education, and periodic college audit, required by every Canadian dietetic regulatory college."
+  },
+  {
+    "id": 70,
+    "domain": "professionalism_and_ethics",
+    "front": "Can registration be suspended solely for failing continuing competence requirements?",
+    "back": "Yes, failure to complete continuing competence requirements can result in suspension of registration even without any specific complaint about clinical practice."
+  },
+  {
+    "id": 71,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the professionally correct response after an RD makes a clinical error, such as a feeding order calculation mistake?",
+    "back": "Disclose the error to the appropriate parties, document what happened, and take steps to mitigate harm, rather than concealing the error."
+  },
+  {
+    "id": 72,
+    "domain": "professionalism_and_ethics",
+    "front": "How do regulatory colleges generally treat honest disclosure of an error compared to concealment?",
+    "back": "Honest disclosure and remediation are treated far more favourably in a disciplinary context, while concealment independently constitutes a serious integrity breach."
+  },
+  {
+    "id": 73,
+    "domain": "professionalism_and_ethics",
+    "front": "Why do professional boundaries exist in the dietitian-client relationship?",
+    "back": "To protect clients from harm arising from the inherent power imbalance created by the dietitian's specialized knowledge and potential influence over care decisions."
+  },
+  {
+    "id": 74,
+    "domain": "professionalism_and_ethics",
+    "front": "Is a sexual or romantic relationship with a current client permitted under Canadian dietetic regulation?",
+    "back": "No, it is universally prohibited by Canadian dietetic regulatory colleges and typically also prohibited for a defined period after the professional relationship ends."
+  },
+  {
+    "id": 75,
+    "domain": "professionalism_and_ethics",
+    "front": "Give an example of a subtle boundary crossing in dietetic practice.",
+    "back": "Accepting significant personal gifts from a client, developing a dual relationship such as becoming a client's business partner, or excessive self-disclosure that shifts focus away from the client."
+  },
+  {
+    "id": 76,
+    "domain": "professionalism_and_ethics",
+    "front": "Why might accepting a current client's personal social media friend request be a boundary or privacy concern?",
+    "back": "It can blur the professional relationship and risks unintended disclosure of personal or health information depending on the platform and content involved."
+  },
+  {
+    "id": 77,
+    "domain": "professionalism_and_ethics",
+    "front": "What must an RD do to ethically terminate a professional relationship with a client?",
+    "back": "Give reasonable notice, avoid abandonment particularly for clients with ongoing or urgent nutrition needs, and support continuity of care such as providing a summary to the receiving provider with consent."
+  },
+  {
+    "id": 78,
+    "domain": "professionalism_and_ethics",
+    "front": "What underlying bioethical principles does client wellbeing in the Code of Ethics reflect?",
+    "back": "Beneficence, acting to benefit the client, and non-maleficence, avoiding causing harm."
+  },
+  {
+    "id": 79,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the typical exam-tested response when a client discloses risk of serious harm to themselves or another identifiable person?",
+    "back": "Follow the documented legal and regulatory duty-to-warn or duty-to-report process rather than ignoring the disclosure or acting solely on personal judgment outside that process."
+  },
+  {
+    "id": 80,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the appropriate first step if an RD has concerns about a colleague's practice falling below standard?",
+    "back": "Raise the concern through the appropriate internal or regulatory college complaint pathway rather than ignoring it or confronting the colleague informally without following process."
+  },
+  {
+    "id": 81,
+    "domain": "professionalism_and_ethics",
+    "front": "How should an RD respond to a request from a client's family member for health information without the client's consent?",
+    "back": "Decline to share the information unless the family member is a substitute decision-maker or another legal exception applies, and explain the confidentiality obligation."
+  },
+  {
+    "id": 82,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the recommended response when organizational pressure conflicts with an RD's clinical judgment, such as pressure for early discharge?",
+    "back": "Advocate for the client's documented clinical needs, raise the concern through appropriate channels, and avoid discharging or altering care solely to satisfy organizational pressure."
+  },
+  {
+    "id": 83,
+    "domain": "professionalism_and_ethics",
+    "front": "What kind of exam answer options are almost always incorrect in professionalism and ethics scenarios?",
+    "back": "Options involving ignoring a concern, acting on assumption without confirming facts, bypassing consent requirements for convenience, or resolving a conflict of interest through non-disclosure."
+  },
+  {
+    "id": 84,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the relationship between provincial health professions legislation and a regulatory college's authority?",
+    "back": "Provincial health professions legislation, such as the Regulated Health Professions Act in Ontario, grants the college its legal authority to register, set standards for, and discipline dietitians."
+  },
+  {
+    "id": 85,
+    "domain": "professionalism_and_ethics",
+    "front": "Why is documentation of a consent discussion important?",
+    "back": "It protects both the client and the practitioner by providing evidence of what information was provided and how the client responded, and is itself a standard of practice requirement."
+  },
+  {
+    "id": 86,
+    "domain": "professionalism_and_ethics",
+    "front": "What level of consent is generally appropriate for routine nutrition counselling versus a higher-risk intervention?",
+    "back": "Routine counselling may rely on implied consent established at the outset of the relationship, while higher-risk or more invasive interventions generally warrant express, often written, consent."
+  },
+  {
+    "id": 87,
+    "domain": "professionalism_and_ethics",
+    "front": "What must RDs ensure regarding staff or students they supervise and confidentiality?",
+    "back": "That any staff or students under their supervision understand and follow the same confidentiality obligations as the RD."
+  },
+  {
+    "id": 88,
+    "domain": "professionalism_and_ethics",
+    "front": "What steps should an RD take to secure client records?",
+    "back": "Take reasonable steps to secure paper and electronic records against unauthorized access and use secure methods when transmitting sensitive health information, avoiding unencrypted email for sensitive details."
+  },
+  {
+    "id": 89,
+    "domain": "professionalism_and_ethics",
+    "front": "Why can refusing to perform an activity within one's authorized and demonstrated competence also be a professionalism concern?",
+    "back": "Because excessive caution that results in unnecessary delay or harm to the client can itself represent a failure to meet professional obligations to the client."
+  },
+  {
+    "id": 90,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the core reciprocal obligation that comes with self-regulation?",
+    "back": "The profession must consistently demonstrate that it acts in the public interest ahead of its own interests, in exchange for the privilege of setting its own standards."
+  },
+  {
+    "id": 91,
+    "domain": "professionalism_and_ethics",
+    "front": "How does the CDRE typically frame ethics and professionalism items?",
+    "back": "As realistic scenarios requiring the candidate to identify the most appropriate action among several plausible options, rather than recall of an isolated definition."
+  },
+  {
+    "id": 92,
+    "domain": "professionalism_and_ethics",
+    "front": "What does providing services to a close friend or family member risk from a professionalism standpoint?",
+    "back": "It risks compromising the RD's professional objectivity due to the pre-existing personal relationship, which is a recognized conflict-of-interest and boundary concern."
+  },
+  {
+    "id": 93,
+    "domain": "professionalism_and_ethics",
+    "front": "What is the general rule about decisions to discontinue or initiate certain medical treatments, such as parenteral nutrition, in relation to RD scope?",
+    "back": "Such decisions typically require physician authorization even when the RD's nutrition assessment directly informs the decision, reflecting overlapping but distinct professional scopes."
+  },
+  {
+    "id": 94,
+    "domain": "professionalism_and_ethics",
+    "front": "What should an RD do if they identify that a professional relationship with a client has become compromised?",
+    "back": "Take corrective action, which may include setting explicit limits, consulting a supervisor or the regulatory college's practice advisory service, or appropriately terminating the relationship with continuity of care."
+  },
+  {
+    "id": 95,
+    "domain": "professionalism_and_ethics",
+    "front": "What does the substitute decision-maker hierarchy in most provinces typically begin with?",
+    "back": "A court-appointed guardian, followed by a named power of attorney for personal care, then family members in a specified statutory order."
+  },
+  {
+    "id": 96,
+    "domain": "communication_and_collaboration",
+    "front": "What does the acronym OARS stand for in motivational interviewing?",
+    "back": "Open-ended questions, Affirmations, Reflective listening, and Summaries. These are the four core communication skills used to strengthen a client's own motivation for change."
+  },
+  {
+    "id": 97,
+    "domain": "communication_and_collaboration",
+    "front": "What is the 'righting reflex' in motivational interviewing, and why is it avoided?",
+    "back": "The practitioner's instinct to correct or lecture a client toward a healthier choice. It is avoided because direct persuasion tends to produce sustain talk or discord (relational friction) rather than reduce the client's ambivalence about change."
+  },
+  {
+    "id": 98,
+    "domain": "communication_and_collaboration",
+    "front": "What are the four core processes of motivational interviewing?",
+    "back": "Engaging, focusing, evoking, and planning. These build the relationship, agree on a direction, draw out the client's own reasons for change, and develop a concrete action plan."
+  },
+  {
+    "id": 99,
+    "domain": "communication_and_collaboration",
+    "front": "Differentiate change talk from sustain talk.",
+    "back": "Change talk is any client statement favouring change, such as desire, ability, reason, need, or commitment. Sustain talk is any statement favouring the status quo. Skilled counselling reinforces change talk and reflects sustain talk neutrally."
+  },
+  {
+    "id": 100,
+    "domain": "communication_and_collaboration",
+    "front": "List the five stages of the Transtheoretical (Stages of Change) model.",
+    "back": "Precontemplation, contemplation, preparation, action, and maintenance. Counselling strategy should match the client's actual stage rather than assuming readiness for action."
+  },
+  {
+    "id": 101,
+    "domain": "communication_and_collaboration",
+    "front": "What is health literacy?",
+    "back": "The degree to which individuals can obtain, process, and understand basic health information needed to make appropriate health decisions. Low health literacy is linked to poorer chronic disease management independent of education level."
+  },
+  {
+    "id": 102,
+    "domain": "communication_and_collaboration",
+    "front": "Describe the teach-back method and why it is preferred over asking 'Does that make sense?'",
+    "back": "Teach-back asks the client to explain information back in their own words. It is preferred because it identifies real gaps in understanding, whereas 'Does that make sense?' often draws a polite but meaningless yes."
+  },
+  {
+    "id": 103,
+    "domain": "communication_and_collaboration",
+    "front": "What reading level should most Canadian patient education materials target?",
+    "back": "Approximately a grade 6 to 8 reading level, using plain language, short sentences, and visuals such as Canada's Food Guide plate image to support the text."
+  },
+  {
+    "id": 104,
+    "domain": "communication_and_collaboration",
+    "front": "How does cultural safety differ from cultural sensitivity or cultural competence?",
+    "back": "Cultural safety requires the practitioner to critically reflect on their own power, privilege, and biases, and is defined by whether the client, not the provider, experienced the care as safe and respectful of their identity and autonomy."
+  },
+  {
+    "id": 105,
+    "domain": "communication_and_collaboration",
+    "front": "What is Indigenous food sovereignty?",
+    "back": "The right of Indigenous communities to define and control their own food systems, including access to traditional and country foods, rather than having a mainstream Canadian dietary pattern imposed as the default standard."
+  },
+  {
+    "id": 106,
+    "domain": "communication_and_collaboration",
+    "front": "Why should a family member generally not be used as a medical interpreter?",
+    "back": "A family interpreter may filter, omit, or feel uncomfortable relaying sensitive health information. A professional interpreter should be used for clients with limited English or French proficiency."
+  },
+  {
+    "id": 107,
+    "domain": "communication_and_collaboration",
+    "front": "What are the three macronutrient food group proportions shown on Canada's Food Guide plate (2019 edition)?",
+    "back": "Roughly half vegetables and fruit, one quarter protein foods, and one quarter whole grain foods, alongside broader guidance on eating habits and water as the drink of choice."
+  },
+  {
+    "id": 108,
+    "domain": "communication_and_collaboration",
+    "front": "What did the 2019 Canada's Food Guide revision remove compared to earlier editions?",
+    "back": "It removed the traditional four food groups and specific serving sizes, replacing them with a plate-based visual and broader guidance on eating habits and mindful eating."
+  },
+  {
+    "id": 109,
+    "domain": "communication_and_collaboration",
+    "front": "Define interprofessional collaboration.",
+    "back": "Healthcare providers from different professions working together with patients, families, and communities to deliver the highest quality of care, built on role clarity, mutual respect, and reliable communication structures."
+  },
+  {
+    "id": 110,
+    "domain": "communication_and_collaboration",
+    "front": "What determines an RD's independent scope of practice in Canada?",
+    "back": "The provincial regulatory college where the RD is registered, such as the College of Dietitians of Ontario or an equivalent college in another province, which defines what the RD may do independently versus what requires physician involvement."
+  },
+  {
+    "id": 111,
+    "domain": "communication_and_collaboration",
+    "front": "Which team member determines safe swallowing consistency, and how must an RD respond to that finding?",
+    "back": "A speech-language pathologist determines texture-modified diet and thickened fluid requirements. An RD must never independently loosen a swallowing-safety restriction without a reassessment."
+  },
+  {
+    "id": 112,
+    "domain": "communication_and_collaboration",
+    "front": "What does SBAR stand for?",
+    "back": "Situation, Background, Assessment, Recommendation. It is a structured communication format used for concise, urgent, or handoff communication between healthcare disciplines."
+  },
+  {
+    "id": 113,
+    "domain": "communication_and_collaboration",
+    "front": "In an SBAR communication, what does the Recommendation component specifically convey?",
+    "back": "It states specifically what action the RD wants the other provider to take, such as starting oral nutrition supplements or ordering a repeat lab value."
+  },
+  {
+    "id": 114,
+    "domain": "communication_and_collaboration",
+    "front": "List the four components of a SOAP note.",
+    "back": "Subjective (client-reported information), Objective (measurable data such as weight or labs), Assessment (professional interpretation), and Plan (the specific intervention and follow-up)."
+  },
+  {
+    "id": 115,
+    "domain": "communication_and_collaboration",
+    "front": "What does ADIME stand for and what process is it built around?",
+    "back": "Assessment, Diagnosis, Intervention, Monitoring and Evaluation. It is the documentation format built around the Nutrition Care Process used by most Canadian dietitians."
+  },
+  {
+    "id": 116,
+    "domain": "communication_and_collaboration",
+    "front": "What is a PES statement?",
+    "back": "The format for writing a nutrition diagnosis: Problem related to Etiology as evidenced by Signs and symptoms, for example inadequate energy intake related to nausea as evidenced by unintentional weight loss."
+  },
+  {
+    "id": 117,
+    "domain": "communication_and_collaboration",
+    "front": "How does a nutrition diagnosis differ from a medical diagnosis?",
+    "back": "A medical diagnosis names a disease or condition, such as colorectal cancer. A nutrition diagnosis names the specific nutrition problem the RD is intervening on, which may exist independent of the medical diagnosis."
+  },
+  {
+    "id": 118,
+    "domain": "communication_and_collaboration",
+    "front": "What is a copy-forward error in documentation, and why is it a concern?",
+    "back": "Copying a prior note forward without verifying it still reflects the current encounter. Regulatory colleges warn against it because it risks inaccurate, outdated information remaining in the client's active record."
+  },
+  {
+    "id": 119,
+    "domain": "communication_and_collaboration",
+    "front": "What four qualities should all clinical documentation demonstrate regardless of the charting framework used?",
+    "back": "Timeliness, accuracy, an objective and professional tone, and legal defensibility, since the record may be reviewed years later in a college complaint or legal proceeding."
+  },
+  {
+    "id": 120,
+    "domain": "communication_and_collaboration",
+    "front": "How should an RD document a verbal order received from a physician about nutrition therapy?",
+    "back": "With the date, time, and name of the ordering physician recorded clearly in the client's chart at the time the order is received."
+  },
+  {
+    "id": 121,
+    "domain": "communication_and_collaboration",
+    "front": "When communicating a nutrition finding verbally to a physician, what should the RD lead with?",
+    "back": "The clinical significance of the finding before the technical detail, followed by an explicit statement of the action being requested."
+  },
+  {
+    "id": 122,
+    "domain": "communication_and_collaboration",
+    "front": "What is the recommended first step when resolving a disagreement with another team member?",
+    "back": "Clarifying the shared goal, which in nearly every dietetic conflict is the best possible outcome for the client, to reduce defensiveness and reframe the discussion away from who is right."
+  },
+  {
+    "id": 123,
+    "domain": "communication_and_collaboration",
+    "front": "If an RD believes a physician's diet order is unsafe, what is the RD's professional obligation?",
+    "back": "To raise the concern directly and promptly with the ordering physician using clear clinical reasoning, rather than silently complying or silently refusing without communicating the concern."
+  },
+  {
+    "id": 124,
+    "domain": "communication_and_collaboration",
+    "front": "What should an RD do if a safety concern about a physician's order is not resolved through direct discussion?",
+    "back": "Document the concern and follow the facility's established escalation policy, such as involving a supervisor, medical director, or a formal team conference."
+  },
+  {
+    "id": 125,
+    "domain": "communication_and_collaboration",
+    "front": "Why is escalating an unresolved clinical disagreement not considered a communication failure?",
+    "back": "Because it is part of a properly functioning care system, particularly when client safety is at stake, and reflects appropriate use of established channels rather than an inability to communicate directly."
+  },
+  {
+    "id": 126,
+    "domain": "communication_and_collaboration",
+    "front": "Why might pushing action-stage counselling strategies onto a precontemplation-stage client be counterproductive?",
+    "back": "Because the client is not yet ready to change, and imposing specific targets or meal plans ignores their actual readiness, which can increase resistance rather than build motivation."
+  },
+  {
+    "id": 127,
+    "domain": "communication_and_collaboration",
+    "front": "Give an example of a reflective listening statement in dietetic counselling.",
+    "back": "Restating the meaning or feeling behind a client's statement, for example responding to 'I just don't have time to cook' with 'It sounds like finding time is the biggest barrier for you right now,' which confirms understanding and can deepen insight."
+  },
+  {
+    "id": 128,
+    "domain": "communication_and_collaboration",
+    "front": "What is an affirmation in motivational interviewing?",
+    "back": "A genuine acknowledgement of a client's strengths or efforts, such as recognizing consistent food log tracking, used to build confidence and rapport rather than as generic praise."
+  },
+  {
+    "id": 129,
+    "domain": "communication_and_collaboration",
+    "front": "Why should an RD avoid assuming a single 'cultural diet' applies to every client from a broad ethnic or cultural category?",
+    "back": "Because food practices vary widely within any broad cultural group, and assuming uniformity can lead to inaccurate assessment and care that feels disrespectful of the client's actual individual practices."
+  },
+  {
+    "id": 130,
+    "domain": "communication_and_collaboration",
+    "front": "What health system events must culturally safe practice with Indigenous clients in Canada be understood in the context of?",
+    "back": "The ongoing effects of colonization, residential schools, and the Sixties Scoop on food systems, trust in institutions, and health outcomes for Indigenous peoples."
+  },
+  {
+    "id": 131,
+    "domain": "communication_and_collaboration",
+    "front": "What role do the Truth and Reconciliation Commission's Calls to Action play in dietetic education?",
+    "back": "They explicitly name health professional education as a mechanism for addressing the ongoing harms of colonization, informing Dietitians of Canada's commitments to cultural safety and Indigenous food sovereignty."
+  },
+  {
+    "id": 132,
+    "domain": "communication_and_collaboration",
+    "front": "What social worker collaboration areas are most relevant to dietetic practice?",
+    "back": "Food insecurity, discharge planning to appropriate community food resources, and psychosocial barriers that make it difficult for a client to follow a nutrition plan."
+  },
+  {
+    "id": 133,
+    "domain": "communication_and_collaboration",
+    "front": "Why is a professional, non-judgmental tone required in clinical documentation?",
+    "back": "Because documentation must remain objective and legally defensible, and judgmental language about a client's choices can undermine professionalism and be scrutinized in a complaint or legal review."
+  },
+  {
+    "id": 134,
+    "domain": "communication_and_collaboration",
+    "front": "Why is dietetics-specific jargon like 'PES statement' potentially problematic in verbal communication with a nurse or physician?",
+    "back": "Because non-dietitian colleagues may not immediately recognize the term, so the RD should briefly clarify dietetics-specific language even though clinical terminology in general is often shared and understood across disciplines."
+  },
+  {
+    "id": 135,
+    "domain": "communication_and_collaboration",
+    "front": "What is a common source of role-boundary conflict between nurses and RDs in nutrition care?",
+    "back": "A nurse independently advising a client on carbohydrate counting without RD involvement, which may exceed the nurse's scope in that context and requires clarification of role boundaries."
+  },
+  {
+    "id": 136,
+    "domain": "management_and_leadership",
+    "front": "What is situational leadership?",
+    "back": "A leadership style in which the leader adapts their approach based on the competence and confidence of the team member and the demands of the task at hand. A new intern needs directive coaching, while an experienced technician benefits from a delegating style."
+  },
+  {
+    "id": 137,
+    "domain": "management_and_leadership",
+    "front": "What is transformational leadership in a dietetics context?",
+    "back": "A leadership approach that motivates staff through a shared vision and by modelling the values of patient-centred, evidence-based care. It is associated with improved staff engagement and retention in nutrition and food services."
+  },
+  {
+    "id": 138,
+    "domain": "management_and_leadership",
+    "front": "What does SBAR stand for and when is it used?",
+    "back": "Situation, Background, Assessment, Recommendation. It is a structured communication tool used to transfer critical nutrition and patient information accurately between shifts and disciplines."
+  },
+  {
+    "id": 139,
+    "domain": "management_and_leadership",
+    "front": "Who defines what tasks an RD may delegate to a dietetic technician?",
+    "back": "The relevant provincial regulatory college, such as the College of Dietitians of Ontario or British Columbia, defines scope of practice and what may be delegated versus what requires direct RD oversight."
+  },
+  {
+    "id": 140,
+    "domain": "management_and_leadership",
+    "front": "Who remains accountable when an RD delegates a task to a support staff member?",
+    "back": "The RD remains accountable for ensuring the delegate is competent to perform the delegated task, even though the task itself is carried out by the support staff member."
+  },
+  {
+    "id": 141,
+    "domain": "management_and_leadership",
+    "front": "What are the four phases of the PDSA cycle?",
+    "back": "Plan, Do, Study, Act. It is an iterative quality improvement framework used to test and refine small-scale practice changes before wider adoption."
+  },
+  {
+    "id": 142,
+    "domain": "management_and_leadership",
+    "front": "What makes a quality improvement aim a SMART aim?",
+    "back": "It is Specific, Measurable, Achievable, Relevant, and Time-bound. A SMART aim gives a quality improvement team a clear, testable target for a PDSA cycle."
+  },
+  {
+    "id": 143,
+    "domain": "management_and_leadership",
+    "front": "What are the three categories in Donabedian's model of quality?",
+    "back": "Structure, process, and outcome. Structure examines resources and setting, process examines whether correct steps were followed, and outcome examines the actual result for the patient or population."
+  },
+  {
+    "id": 144,
+    "domain": "management_and_leadership",
+    "front": "Give an example of a structure measure in nutrition care quality evaluation.",
+    "back": "Staffing ratios or the availability of therapeutic diet options are structure measures, since they describe the resources and setting available rather than the process followed or the result achieved."
+  },
+  {
+    "id": 145,
+    "domain": "management_and_leadership",
+    "front": "Give an example of a process measure in nutrition care quality evaluation.",
+    "back": "The percentage of high-risk patients who received a documented nutrition care plan within 24 hours of screening is a process measure, since it evaluates whether the correct steps were followed."
+  },
+  {
+    "id": 146,
+    "domain": "management_and_leadership",
+    "front": "Give an example of an outcome measure in nutrition care quality evaluation.",
+    "back": "Reduction in hospital length of stay or improvement in serum albumin are outcome measures, since they reflect the actual result achieved for the patient rather than the process used to get there."
+  },
+  {
+    "id": 147,
+    "domain": "management_and_leadership",
+    "front": "What is the purpose of audit and feedback in dietetic quality improvement?",
+    "back": "Chart audits compare documented nutrition care against an established standard, such as the Nutrition Care Process, to identify gaps. Results are fed back non-punitively, paired with education, to support improvement."
+  },
+  {
+    "id": 148,
+    "domain": "management_and_leadership",
+    "front": "What is a key performance indicator commonly tracked in Canadian nutrition departments?",
+    "back": "Malnutrition screening completion rate, time from referral to initial RD assessment, and patient satisfaction with meal service are all common KPIs used to monitor departmental performance over time."
+  },
+  {
+    "id": 149,
+    "domain": "management_and_leadership",
+    "front": "What is the difference between an operating budget and a capital budget?",
+    "back": "An operating budget covers day-to-day costs such as salaries and food, while a capital budget covers larger, longer-term purchases such as kitchen equipment, typically planned on a multi-year cycle."
+  },
+  {
+    "id": 150,
+    "domain": "management_and_leadership",
+    "front": "How is food cost percentage calculated?",
+    "back": "Food cost divided by food revenue, or by the total food services operating budget in a non-revenue setting, expressed as a percentage. It is a key management metric for tracking spending trends."
+  },
+  {
+    "id": 151,
+    "domain": "management_and_leadership",
+    "front": "What is variance analysis in departmental budgeting?",
+    "back": "Comparing actual spending against the budgeted amount for a given period to identify why a difference occurred, distinguishing a one-time event from a structural change requiring an ongoing budget adjustment."
+  },
+  {
+    "id": 152,
+    "domain": "management_and_leadership",
+    "front": "What is a business case used for in resource allocation?",
+    "back": "A business case is the standard tool for requesting resources from senior leadership, typically including a problem statement, options considered, projected costs and benefits, and a recommendation."
+  },
+  {
+    "id": 153,
+    "domain": "management_and_leadership",
+    "front": "What is the difference between cost-benefit analysis and cost-effectiveness analysis?",
+    "back": "Cost-benefit analysis expresses both costs and benefits in dollar terms, while cost-effectiveness analysis expresses benefits in clinical or functional units, such as cost per malnutrition case prevented."
+  },
+  {
+    "id": 154,
+    "domain": "management_and_leadership",
+    "front": "Why is competency-based interviewing preferred in dietetic hiring?",
+    "back": "Asking every candidate the same core questions tied to job-relevant competencies improves the fairness and predictive validity of hiring decisions compared to unstructured interviews."
+  },
+  {
+    "id": 155,
+    "domain": "management_and_leadership",
+    "front": "What must be verified before finalizing an offer to a dietetic hire?",
+    "back": "Reference checks and confirmation of current, unrestricted registration with the relevant provincial regulatory college must be completed before an offer to an RD or dietetic technician is finalized."
+  },
+  {
+    "id": 156,
+    "domain": "management_and_leadership",
+    "front": "What does progressive discipline typically involve?",
+    "back": "A graduated sequence: a verbal warning, a written warning, a final written warning or suspension, and, if unresolved or if misconduct is serious, termination, with documentation at every step."
+  },
+  {
+    "id": 157,
+    "domain": "management_and_leadership",
+    "front": "What are the five rights of delegation?",
+    "back": "The right task, right circumstance, right person, right direction and communication, and right supervision and evaluation. All five must align for a delegation decision to be appropriate."
+  },
+  {
+    "id": 158,
+    "domain": "management_and_leadership",
+    "front": "Why should an RD not delegate an initial nutrition assessment for a complex new diagnosis to a dietetic technician?",
+    "back": "Because that task exceeds the scope defined by most provincial colleges for a non-regulated or technician-level provider, regardless of the technician's individual experience level."
+  },
+  {
+    "id": 159,
+    "domain": "management_and_leadership",
+    "front": "List the eight steps of Kotter's change management model.",
+    "back": "Establish urgency, form a guiding coalition, develop a vision and strategy, communicate the vision, empower broad-based action, generate short-term wins, consolidate gains, and anchor new approaches in the culture."
+  },
+  {
+    "id": 160,
+    "domain": "management_and_leadership",
+    "front": "What is a common cause of failed change initiatives per Kotter's model?",
+    "back": "Skipping early steps, such as rolling out a new system without first building genuine urgency and a coalition of frontline champions, which predictably produces staff resistance."
+  },
+  {
+    "id": 161,
+    "domain": "management_and_leadership",
+    "front": "What does the ADKAR model emphasize that Kotter's model does not focus on directly?",
+    "back": "ADKAR (Awareness, Desire, Knowledge, Ability, Reinforcement) focuses on the individual level, reminding leaders that even a well-designed organizational change can fail if staff lack the ability to perform the new process."
+  },
+  {
+    "id": 162,
+    "domain": "management_and_leadership",
+    "front": "List three common sources of staff resistance to change.",
+    "back": "Fear of job loss or deskilling, lack of trust in leadership, and insufficient information about the reason for the change are all common, expected sources of resistance to organizational change."
+  },
+  {
+    "id": 163,
+    "domain": "management_and_leadership",
+    "front": "What is a strategy to reduce staff resistance during a change initiative?",
+    "back": "Involving affected staff early in planning, rather than only informing them after decisions are made, helps build ownership and reduces resistance compared to a top-down rollout."
+  },
+  {
+    "id": 164,
+    "domain": "management_and_leadership",
+    "front": "What is a SWOT analysis used for in strategic planning?",
+    "back": "A SWOT analysis examines internal strengths and weaknesses alongside external opportunities and threats, forming the environmental scan step at the start of a strategic planning process."
+  },
+  {
+    "id": 165,
+    "domain": "management_and_leadership",
+    "front": "What is the typical time horizon for a departmental strategic plan?",
+    "back": "A strategic plan typically covers a three-to-five-year horizon, translating a broad vision into specific goals, objectives, and action items with clear accountability and timelines."
+  },
+  {
+    "id": 166,
+    "domain": "management_and_leadership",
+    "front": "Why should a departmental strategic plan align with organizational and regional health system priorities?",
+    "back": "Alignment increases the likelihood that a nutrition initiative will receive sustained leadership support and funding, since it connects departmental goals to broader institutional priorities."
+  },
+  {
+    "id": 167,
+    "domain": "management_and_leadership",
+    "front": "What is HACCP and why is it required in Canadian food service?",
+    "back": "Hazard Analysis Critical Control Point identifies points in food production where a hazard could occur and sets critical limits, monitoring, and corrective actions. It is required under provincial food premises regulations."
+  },
+  {
+    "id": 168,
+    "domain": "management_and_leadership",
+    "front": "What is the temperature danger zone in Canadian food safety regulation?",
+    "back": "Potentially hazardous food must not remain between 4 and 60 degrees Celsius for longer than the time limits set by provincial food safety regulation, since bacteria multiply rapidly in this range."
+  },
+  {
+    "id": 169,
+    "domain": "management_and_leadership",
+    "front": "What is an ENFit connector and why was it adopted?",
+    "back": "ENFit is a feeding tube connector designed to be incompatible with intravenous line connectors, reducing the risk of enteral misconnection, a serious patient safety hazard in clinical nutrition."
+  },
+  {
+    "id": 170,
+    "domain": "management_and_leadership",
+    "front": "What is the IDDSI framework used for?",
+    "back": "The International Dysphagia Diet Standardisation Initiative standardizes texture-modified food and thickened liquid terminology across Canadian health care, reducing miscommunication-related adverse events."
+  },
+  {
+    "id": 171,
+    "domain": "management_and_leadership",
+    "front": "List the hierarchy of controls from most to least effective.",
+    "back": "Elimination, substitution, engineering controls, administrative controls, and personal protective equipment. Controls higher on the list are considered more reliable than those lower on the list."
+  },
+  {
+    "id": 172,
+    "domain": "management_and_leadership",
+    "front": "Why is a non-slip floor surface preferred over a wet-floor warning sign?",
+    "back": "A non-slip floor surface is an engineering control, which is more reliable long-term than a wet-floor sign, which is only an administrative control relying on staff and visitor behaviour."
+  },
+  {
+    "id": 173,
+    "domain": "management_and_leadership",
+    "front": "What legislation governs workplace health and safety responsibilities in a Canadian food service setting?",
+    "back": "Provincial occupational health and safety legislation sets out employer and employee responsibilities for identifying and controlling hazards in the workplace, including food service and kitchen areas."
+  },
+  {
+    "id": 174,
+    "domain": "management_and_leadership",
+    "front": "What does the GRADE system evaluate in a clinical practice guideline?",
+    "back": "GRADE rates the certainty of evidence supporting a recommendation as high, moderate, low, or very low, and separately rates the strength of the recommendation as strong or conditional."
+  },
+  {
+    "id": 175,
+    "domain": "management_and_leadership",
+    "front": "What is the Knowledge-to-Action (KTA) framework?",
+    "back": "An iterative cycle developed by Canadian researcher Ian D. Graham that describes identifying a problem, adapting knowledge to local context, assessing barriers, tailoring interventions, and evaluating and sustaining outcomes."
+  },
+  {
+    "id": 176,
+    "domain": "management_and_leadership",
+    "front": "Why is distributing a new clinical practice guideline alone insufficient to change practice?",
+    "back": "Translating evidence into practice requires anticipating and addressing local barriers, such as workflow or habit, and tailoring an implementation strategy rather than assuming the document alone changes behaviour."
+  },
+  {
+    "id": 177,
+    "domain": "management_and_leadership",
+    "front": "What organizations publish Canadian clinical practice guidelines commonly used in dietetics?",
+    "back": "Diabetes Canada and the Heart and Stroke Foundation of Canada are examples of Canadian bodies whose guidelines are prioritized over American ones in Canadian dietetic practice."
+  },
+  {
+    "id": 178,
+    "domain": "management_and_leadership",
+    "front": "What is the purpose of closing the loop with outcome data after an evidence-based practice change?",
+    "back": "Outcome data demonstrates impact, which sustains staff motivation for the change and provides the evidence needed to secure ongoing resources for the initiative."
+  },
+  {
+    "id": 179,
+    "domain": "management_and_leadership",
+    "front": "What is a joint health and safety committee?",
+    "back": "A committee required in Canadian workplaces once a minimum staff threshold is met, involving both employer and worker representatives in hazard identification, incident investigation, and safety training."
+  },
+  {
+    "id": 180,
+    "domain": "management_and_leadership",
+    "front": "Why is punitive use of audit findings discouraged in quality improvement?",
+    "back": "Audit findings used punitively tend to reduce staff engagement with future improvement efforts, so results are better paired with education and non-punitive process redesign."
+  },
+  {
+    "id": 181,
+    "domain": "management_and_leadership",
+    "front": "What is the largest line item in most food service or clinical nutrition operating budgets?",
+    "back": "Salaries and wages are typically the largest line item in a food service or clinical nutrition department's operating budget, ahead of food costs and supplies."
+  },
+  {
+    "id": 182,
+    "domain": "management_and_leadership",
+    "front": "What does an environmental scan accomplish at the start of strategic planning?",
+    "back": "It identifies internal strengths and weaknesses alongside external opportunities and threats, giving the planning team a realistic picture of the current situation before setting goals."
+  },
+  {
+    "id": 183,
+    "domain": "management_and_leadership",
+    "front": "What is stakeholder engagement's role in strategic planning for a nutrition program?",
+    "back": "Engaging patients, families, frontline staff, physicians, and community partners ensures the resulting strategic plan reflects real needs rather than assumptions made by leadership alone."
+  },
+  {
+    "id": 184,
+    "domain": "management_and_leadership",
+    "front": "What kind of task falls outside a dietetic technician's scope of practice?",
+    "back": "A task, such as an individualized parenteral nutrition plan for a critically ill patient, that requires direct RD assessment and sign-off rather than being delegated to a technician or support worker."
+  },
+  {
+    "id": 185,
+    "domain": "management_and_leadership",
+    "front": "Why do daily huddles support effective team leadership in dietetics?",
+    "back": "Daily huddles create a structured communication opportunity to share critical nutrition information and coordinate care across the team, reducing the risk of information loss between shifts."
+  },
+  {
+    "id": 186,
+    "domain": "management_and_leadership",
+    "front": "What is the significance of psychological safety in a dietetic team?",
+    "back": "Psychological safety means team members feel comfortable raising concerns about patient safety or workflow problems without fear of reprisal, which supports both quality improvement and staff retention."
+  },
+  {
+    "id": 187,
+    "domain": "management_and_leadership",
+    "front": "What should happen after a small-scale test of change in a PDSA cycle shows a positive result?",
+    "back": "In the Act phase, the team decides whether to adopt the change more broadly, adapt it further based on what was learned, or abandon it if it did not achieve the intended effect."
+  },
+  {
+    "id": 188,
+    "domain": "management_and_leadership",
+    "front": "Why might a nutrition department fund an additional dietitian position over new equipment?",
+    "back": "The decision should weigh evidence of impact, patient safety risk, regulatory requirements, and organizational strategic priorities, typically documented in a formal business case for leadership."
+  },
+  {
+    "id": 189,
+    "domain": "management_and_leadership",
+    "front": "What is a risk specific to patients on modified-texture diets?",
+    "back": "Choking or aspiration risk is a key patient safety concern for modified-texture diets, which is why standardized terminology such as IDDSI has been adopted to reduce miscommunication."
+  },
+  {
+    "id": 190,
+    "domain": "management_and_leadership",
+    "front": "What is the role of a frontline champion in a change initiative?",
+    "back": "A frontline champion helps build a guiding coalition and models the new behaviour for peers, increasing buy-in and reducing resistance during an organizational change rollout."
+  },
+  {
+    "id": 191,
+    "domain": "management_and_leadership",
+    "front": "Why is documentation important throughout progressive discipline?",
+    "back": "Documentation at every step protects the employee's right to fair process and supports the employer's ability to defend a termination decision if it is later challenged."
+  },
+  {
+    "id": 192,
+    "domain": "management_and_leadership",
+    "front": "What does 'no surprises' mean in the context of an annual performance review?",
+    "back": "A formal annual review should not contain surprises, because performance concerns should already have been raised informally as they arose throughout the review period."
+  },
+  {
+    "id": 193,
+    "domain": "management_and_leadership",
+    "front": "Give an example of a common hazard requiring a hierarchy-of-controls approach in institutional food service.",
+    "back": "Cuts from knives and slicing equipment are a common hazard; engineering controls such as blade guards are prioritized over administrative controls such as safety signage alone."
+  },
+  {
+    "id": 194,
+    "domain": "management_and_leadership",
+    "front": "What is the relationship between a departmental KPI and a QI aim?",
+    "back": "A KPI, such as malnutrition screening completion rate, is often the measure tracked to determine whether a QI aim, such as improving screening completion within 24 hours, has been achieved."
+  },
+  {
+    "id": 195,
+    "domain": "management_and_leadership",
+    "front": "Why is critical appraisal of a clinical practice guideline necessary before local adoption?",
+    "back": "Critical appraisal evaluates the quality and applicability of the guideline's evidence, using tools like GRADE, before a dietetic leader recommends it be built into local protocols."
+  },
+  {
+    "id": 196,
+    "domain": "management_and_leadership",
+    "front": "What is a business case's role when requesting a new capital purchase?",
+    "back": "A business case documents the problem, options considered, projected costs and benefits, and a recommendation, giving senior leadership the information needed to approve a capital budget request."
+  },
+  {
+    "id": 197,
+    "domain": "management_and_leadership",
+    "front": "What is the risk of implementing a new documentation system without first building staff buy-in?",
+    "back": "Skipping early change management steps such as establishing urgency and forming a coalition predictably produces passive or active staff resistance to the new system."
+  },
+  {
+    "id": 198,
+    "domain": "management_and_leadership",
+    "front": "What does it mean for a nutrition leader to 'build evidence into existing workflows'?",
+    "back": "Embedding a new evidence-based behaviour into existing documentation and workflow systems makes it the path of least resistance for staff, supporting sustained adoption over time."
+  },
+  {
+    "id": 199,
+    "domain": "management_and_leadership",
+    "front": "Why do Canadian dietetic managers prioritize Canadian clinical practice guidelines over American ones?",
+    "back": "Canadian guidelines, such as those from Diabetes Canada, reflect Canadian population health data, health system structure, and regulatory context, making them more directly applicable to Canadian practice."
+  },
+  {
+    "id": 200,
+    "domain": "management_and_leadership",
+    "front": "What is the purpose of a chart audit against the Nutrition Care Process framework?",
+    "back": "It identifies gaps in documented assessment, diagnosis, intervention, or monitoring and evaluation, allowing a department to target quality improvement efforts where they are most needed."
+  },
+  {
+    "id": 201,
+    "domain": "nutrition_care",
+    "front": "How much extra energy is recommended per day in the second trimester of pregnancy?",
+    "back": "Approximately 340 kilocalories per day above pre-pregnancy needs. No additional energy is needed in the first trimester."
+  },
+  {
+    "id": 202,
+    "domain": "nutrition_care",
+    "front": "How much extra energy is recommended per day in the third trimester of pregnancy?",
+    "back": "Approximately 450 kilocalories per day above pre-pregnancy needs, reflecting continued fetal growth and maternal tissue expansion."
+  },
+  {
+    "id": 203,
+    "domain": "nutrition_care",
+    "front": "What is the protein requirement during pregnancy?",
+    "back": "1.1 grams per kilogram of body weight per day, supporting fetal tissue growth, placental development, and expanded maternal blood volume."
+  },
+  {
+    "id": 204,
+    "domain": "nutrition_care",
+    "front": "What daily folic acid dose does Health Canada recommend for most people planning a pregnancy?",
+    "back": "A multivitamin containing 0.4 milligrams of folic acid daily, started before conception and continued through pregnancy to reduce neural tube defect risk."
+  },
+  {
+    "id": 205,
+    "domain": "nutrition_care",
+    "front": "What is the recommended dietary allowance for iron during pregnancy?",
+    "back": "27 milligrams per day, supporting the expanded maternal red blood cell mass and fetal iron stores."
+  },
+  {
+    "id": 206,
+    "domain": "nutrition_care",
+    "front": "What is the recommended vitamin D intake during pregnancy?",
+    "back": "600 international units per day, though higher supplemental amounts are often suggested given limited sunlight exposure across much of Canada."
+  },
+  {
+    "id": 207,
+    "domain": "nutrition_care",
+    "front": "What is the recommended weight gain range for a person with a normal pre-pregnancy BMI?",
+    "back": "11.5 to 16 kilograms across the pregnancy, following the Institute of Medicine ranges adopted in Canadian practice."
+  },
+  {
+    "id": 208,
+    "domain": "nutrition_care",
+    "front": "What is the recommended weight gain range for a person with an obese pre-pregnancy BMI?",
+    "back": "5 to 9 kilograms across the pregnancy, the smallest recommended range among the four BMI categories."
+  },
+  {
+    "id": 209,
+    "domain": "nutrition_care",
+    "front": "Which fish should be limited during pregnancy due to mercury advisories?",
+    "back": "Shark, swordfish, and fresh or frozen tuna, per Health Canada mercury guidance for pregnant people."
+  },
+  {
+    "id": 210,
+    "domain": "nutrition_care",
+    "front": "What is the current Canadian recommendation on alcohol during pregnancy?",
+    "back": "No amount of alcohol is recommended at any point during pregnancy, since no amount has been proven safe for fetal development."
+  },
+  {
+    "id": 211,
+    "domain": "nutrition_care",
+    "front": "What is the recommended caffeine limit during pregnancy?",
+    "back": "No more than 300 milligrams per day, roughly equivalent to two 8-ounce cups of coffee."
+  },
+  {
+    "id": 212,
+    "domain": "nutrition_care",
+    "front": "When is gestational diabetes screening typically performed?",
+    "back": "Between 24 and 28 weeks' gestation, using a glucose challenge or oral glucose tolerance test."
+  },
+  {
+    "id": 213,
+    "domain": "nutrition_care",
+    "front": "How much extra energy is recommended during the first six months of exclusive breastfeeding?",
+    "back": "Approximately 330 kilocalories per day above pre-pregnancy needs."
+  },
+  {
+    "id": 214,
+    "domain": "nutrition_care",
+    "front": "What is the protein requirement during lactation?",
+    "back": "1.3 grams per kilogram of body weight per day."
+  },
+  {
+    "id": 215,
+    "domain": "nutrition_care",
+    "front": "What is the joint Canadian recommendation for exclusive breastfeeding duration?",
+    "back": "Exclusive breastfeeding for the first six months of life, with continued breastfeeding for up to two years or longer alongside complementary foods."
+  },
+  {
+    "id": 216,
+    "domain": "nutrition_care",
+    "front": "What vitamin D dose is recommended for breastfed infants?",
+    "back": "400 international units per day, since breastmilk alone does not reliably meet an infant's vitamin D needs."
+  },
+  {
+    "id": 217,
+    "domain": "nutrition_care",
+    "front": "Why is cow's milk not recommended before 9 to 12 months of age?",
+    "back": "It is low in iron and can contribute to gastrointestinal blood loss in young infants."
+  },
+  {
+    "id": 218,
+    "domain": "nutrition_care",
+    "front": "At what age is complementary feeding recommended to begin, and why?",
+    "back": "Around six months, when developmental readiness signs appear and an infant's endogenous iron stores, built during the third trimester, begin to decline."
+  },
+  {
+    "id": 219,
+    "domain": "nutrition_care",
+    "front": "Name three developmental readiness signs for starting complementary foods.",
+    "back": "Good head and neck control, the ability to sit with support, and reduced tongue-thrust reflex."
+  },
+  {
+    "id": 220,
+    "domain": "nutrition_care",
+    "front": "Why are iron-rich foods prioritized as first complementary foods?",
+    "back": "Because an infant's iron stores from the third trimester of pregnancy begin declining around six months of age."
+  },
+  {
+    "id": 221,
+    "domain": "nutrition_care",
+    "front": "What is current Canadian guidance on introducing peanut, egg, and tree nuts to infants?",
+    "back": "Introduce common allergenic foods in age-appropriate textures around six months rather than delaying, since early introduction reduces food allergy risk for most infants."
+  },
+  {
+    "id": 222,
+    "domain": "nutrition_care",
+    "front": "Why should honey be avoided before 12 months of age?",
+    "back": "Due to the risk of infant botulism."
+  },
+  {
+    "id": 223,
+    "domain": "nutrition_care",
+    "front": "What type of cow's milk is recommended when transitioning a toddler at around 12 months?",
+    "back": "Whole (3.25 percent) homogenized milk, rather than reduced-fat options, to support the higher fat needs of rapid brain development."
+  },
+  {
+    "id": 224,
+    "domain": "nutrition_care",
+    "front": "What does 'division of responsibility' in toddler feeding mean?",
+    "back": "The caregiver decides what, when, and where food is offered; the child decides whether and how much to eat from what is offered."
+  },
+  {
+    "id": 225,
+    "domain": "nutrition_care",
+    "front": "What are the daily calcium and iron needs for toddlers aged one to three years?",
+    "back": "Approximately 700 milligrams of calcium and 7 milligrams of iron daily."
+  },
+  {
+    "id": 226,
+    "domain": "nutrition_care",
+    "front": "Which growth chart standard does Canada use for children up to age 19?",
+    "back": "The World Health Organization growth charts, adopted by the Canadian Paediatric Society."
+  },
+  {
+    "id": 227,
+    "domain": "nutrition_care",
+    "front": "What growth chart pattern should prompt further nutrition assessment in a child?",
+    "back": "Crossing of major percentile lines on weight-for-age, height-for-age, or BMI-for-age curves over time."
+  },
+  {
+    "id": 228,
+    "domain": "nutrition_care",
+    "front": "What is the peak daily calcium requirement during adolescence, and why?",
+    "back": "1,300 milligrams per day, to support accrual of peak bone mass, since much of adult bone mineral density is established during the teenage years."
+  },
+  {
+    "id": 229,
+    "domain": "nutrition_care",
+    "front": "Why do menstruating adolescents have increased iron needs?",
+    "back": "To replace iron lost through menstrual bleeding, on top of the increased needs of the pubertal growth spurt."
+  },
+  {
+    "id": 230,
+    "domain": "nutrition_care",
+    "front": "Name four common nutrition concerns to screen for in adolescents.",
+    "back": "Disordered eating, iron deficiency, inadequate calcium and vitamin D intake, and the nutritional demands of competitive sport participation."
+  },
+  {
+    "id": 231,
+    "domain": "nutrition_care",
+    "front": "What does the ABCD nutrition assessment framework stand for?",
+    "back": "Anthropometric, Biochemical, Clinical, and Dietary assessment, the four integrated categories of a structured nutrition assessment."
+  },
+  {
+    "id": 232,
+    "domain": "nutrition_care",
+    "front": "Give three examples of anthropometric measurements used in nutrition assessment.",
+    "back": "Height or length, weight, and mid-upper arm circumference (body mass index and waist circumference are also examples)."
+  },
+  {
+    "id": 233,
+    "domain": "nutrition_care",
+    "front": "What percentage of unintentional weight loss over one month is considered clinically significant?",
+    "back": "A loss of more than 5 percent of usual body weight in one month."
+  },
+  {
+    "id": 234,
+    "domain": "nutrition_care",
+    "front": "What percentage of unintentional weight loss over six months is considered clinically significant?",
+    "back": "A loss of more than 10 percent of usual body weight in six months."
+  },
+  {
+    "id": 235,
+    "domain": "nutrition_care",
+    "front": "Why should serum albumin and prealbumin be interpreted cautiously as nutrition markers?",
+    "back": "Both are influenced heavily by inflammation and hydration status, not purely by nutritional status."
+  },
+  {
+    "id": 236,
+    "domain": "nutrition_care",
+    "front": "What is a nutrition-focused physical examination used for?",
+    "back": "To systematically evaluate physical signs consistent with specific macronutrient or micronutrient deficits, complementing biochemical data."
+  },
+  {
+    "id": 237,
+    "domain": "nutrition_care",
+    "front": "Name three methods used in dietary assessment.",
+    "back": "A 24-hour recall, a food frequency questionnaire, and a multi-day food record."
+  },
+  {
+    "id": 238,
+    "domain": "nutrition_care",
+    "front": "Besides intake amount, what other factors does dietary assessment consider?",
+    "back": "Food security status, cultural and religious food practices, socioeconomic constraints, food preparation resources, and personal food preferences."
+  },
+  {
+    "id": 239,
+    "domain": "nutrition_care",
+    "front": "What is the purpose of distinguishing an intake problem from a clinical problem in a nutrition diagnosis?",
+    "back": "It directs an individualized nutrition care plan by identifying whether the root cause is inadequate intake, a disease process, or a behavioural-environmental factor."
+  },
+  {
+    "id": 240,
+    "domain": "nutrition_care",
+    "front": "What protein intake range is often recommended for healthy older adults?",
+    "back": "1.0 to 1.2 grams per kilogram of body weight per day, higher than the general adult recommendation, to help preserve muscle mass."
+  },
+  {
+    "id": 241,
+    "domain": "nutrition_care",
+    "front": "Define sarcopenia.",
+    "back": "The progressive loss of skeletal muscle mass and strength associated with aging, contributing to frailty, falls, and reduced functional independence."
+  },
+  {
+    "id": 242,
+    "domain": "nutrition_care",
+    "front": "What two components are needed together to address sarcopenia effectively?",
+    "back": "Adequate protein intake distributed across meals, particularly leucine-rich sources, combined with resistance exercise."
+  },
+  {
+    "id": 243,
+    "domain": "nutrition_care",
+    "front": "Name a validated malnutrition screening tool developed specifically for Canadian hospitals.",
+    "back": "The Canadian Nutrition Screening Tool."
+  },
+  {
+    "id": 244,
+    "domain": "nutrition_care",
+    "front": "Name a validated nutrition screening tool widely used in community and long-term care settings for older adults.",
+    "back": "The Mini Nutritional Assessment."
+  },
+  {
+    "id": 245,
+    "domain": "nutrition_care",
+    "front": "Name four factors that increase malnutrition risk in older adults.",
+    "back": "Reduced appetite, changes in taste and smell, dentition problems, and social isolation (polypharmacy and chronic disease also contribute)."
+  },
+  {
+    "id": 246,
+    "domain": "nutrition_care",
+    "front": "What framework does Canadian practice use to standardize texture-modified diets and thickened liquids?",
+    "back": "The International Dysphagia Diet Standardisation Initiative (IDDSI) framework, using a common numbered and coloured scale."
+  },
+  {
+    "id": 247,
+    "domain": "nutrition_care",
+    "front": "Why must dietitians balance texture modification with nutritional adequacy in dysphagia management?",
+    "back": "Overly restrictive texture modification can reduce food intake and worsen malnutrition, so texture-modified diets must remain as nutritious and palatable as possible."
+  },
+  {
+    "id": 248,
+    "domain": "nutrition_care",
+    "front": "What professional typically works closely with dietitians on dysphagia management?",
+    "back": "A speech-language pathologist, who performs swallowing assessments and guides texture recommendations alongside the dietitian."
+  },
+  {
+    "id": 249,
+    "domain": "nutrition_care",
+    "front": "Why is vitamin B12 deficiency common in older adults?",
+    "back": "Age-related decline in intrinsic factor and stomach acid production reduces absorption of vitamin B12 from food."
+  },
+  {
+    "id": 250,
+    "domain": "nutrition_care",
+    "front": "Why are older adults at increased risk of dehydration?",
+    "back": "A blunted thirst response and reduced total body water increase dehydration risk with advancing age."
+  },
+  {
+    "id": 251,
+    "domain": "nutrition_care",
+    "front": "Which growth reference does the Public Health Agency of Canada endorse for children birth to 19 years?",
+    "back": "The World Health Organization growth charts, reflecting growth patterns of healthy children raised in optimal conditions."
+  },
+  {
+    "id": 252,
+    "domain": "nutrition_care",
+    "front": "Who jointly develops the Dietary Reference Intakes used in Canadian dietetic practice?",
+    "back": "Health Canada and the United States National Academies."
+  },
+  {
+    "id": 253,
+    "domain": "nutrition_care",
+    "front": "What does the Recommended Dietary Allowance (RDA) represent?",
+    "back": "A Dietary Reference Intake value set to meet the nutrient needs of nearly all healthy individuals in a specific life stage and sex group."
+  },
+  {
+    "id": 254,
+    "domain": "nutrition_care",
+    "front": "What does the Tolerable Upper Intake Level (UL) represent?",
+    "back": "The highest average daily nutrient intake level unlikely to pose risk of adverse health effects for almost all individuals."
+  },
+  {
+    "id": 255,
+    "domain": "nutrition_care",
+    "front": "What model does Canada's Food Guide use, and what did it replace?",
+    "back": "A plate-based model emphasizing proportions of vegetables and fruits, protein foods, and whole grain foods, replacing the older food groups and servings model."
+  },
+  {
+    "id": 256,
+    "domain": "nutrition_care",
+    "front": "What is the recommended beverage of choice in Canada's Food Guide?",
+    "back": "Water."
+  },
+  {
+    "id": 257,
+    "domain": "nutrition_care",
+    "front": "How does iodine need change during lactation?",
+    "back": "It remains elevated to support thyroid hormone transfer into breastmilk."
+  },
+  {
+    "id": 258,
+    "domain": "nutrition_care",
+    "front": "What is a key strategy for managing nausea and vomiting of pregnancy?",
+    "back": "Small frequent meals, ginger, and avoidance of individual trigger foods."
+  },
+  {
+    "id": 259,
+    "domain": "nutrition_care",
+    "front": "Why is iron-fortified infant formula recommended over standard cow's milk in the first year?",
+    "back": "Cow's milk lacks adequate iron and can irritate the infant gut, contributing to blood loss, unlike iron-fortified formula designed for infant needs."
+  },
+  {
+    "id": 260,
+    "domain": "nutrition_care",
+    "front": "What common food safety practice applies to deli meats and pates during pregnancy?",
+    "back": "They should be heated to steaming before eating, or avoided, due to listeria risk."
+  },
+  {
+    "id": 261,
+    "domain": "nutrition_care",
+    "front": "What is the calcium requirement for most non-pregnant, non-lactating adults, for comparison to pregnancy needs?",
+    "back": "1,000 milligrams per day, the same as during pregnancy, since fetal skeletal mineralization is supported partly by maternal bone turnover rather than solely by higher intake."
+  },
+  {
+    "id": 262,
+    "domain": "nutrition_care",
+    "front": "What clinical sign might suggest a micronutrient deficiency on nutrition-focused physical examination?",
+    "back": "Glossitis or angular stomatitis, which can reflect deficiencies such as B vitamins or iron."
+  },
+  {
+    "id": 263,
+    "domain": "nutrition_care",
+    "front": "Why is mid-upper arm circumference a useful anthropometric measure in some populations?",
+    "back": "It provides a nutrition status estimate that is less affected by fluid shifts than body weight and can be measured when height or weight is difficult to obtain."
+  },
+  {
+    "id": 264,
+    "domain": "nutrition_care",
+    "front": "What overall principle guides interpretation of biochemical data in nutrition assessment?",
+    "back": "Biochemical values must be interpreted in the context of the whole clinical picture, never in isolation."
+  },
+  {
+    "id": 265,
+    "domain": "nutrition_care",
+    "front": "Why is dysphagia screening usually the first step before a full swallowing assessment?",
+    "back": "It quickly identifies individuals at risk who need a more detailed swallowing assessment, often performed by nursing or speech-language pathology staff."
+  },
+  {
+    "id": 266,
+    "domain": "nutrition_care",
+    "front": "What percentage reduction in A1C is typically achieved through medical nutrition therapy delivered by a registered dietitian in diabetes?",
+    "back": "Roughly 1.0 to 2.0 percent, depending on diabetes type and duration, per Diabetes Canada's 2023 Clinical Practice Guidelines."
+  },
+  {
+    "id": 267,
+    "domain": "nutrition_care",
+    "front": "What is the primary macronutrient determinant of postprandial glucose response in diabetes management?",
+    "back": "Total carbohydrate quantity, which is why carbohydrate counting is a core MNT teaching tool, especially for intensive insulin therapy."
+  },
+  {
+    "id": 268,
+    "domain": "nutrition_care",
+    "front": "What daily fibre intake does Diabetes Canada recommend, and which fibre type is emphasized?",
+    "back": "15 grams per 1000 kilocalories, emphasizing viscous soluble fibre from oats, psyllium, barley, and legumes for glycemic and lipid benefit."
+  },
+  {
+    "id": 269,
+    "domain": "nutrition_care",
+    "front": "Describe the 15-15 rule for treating hypoglycemia.",
+    "back": "Give 15 grams of fast-acting carbohydrate, wait 15 minutes, then recheck blood glucose, repeating if still under 4.0 mmol/L."
+  },
+  {
+    "id": 270,
+    "domain": "nutrition_care",
+    "front": "What carbohydrate distribution pattern is recommended for gestational diabetes, and why is breakfast unique?",
+    "back": "Consistent carbohydrate across three meals and two to three snacks; breakfast carbohydrate tolerance is often lower due to elevated cortisol."
+  },
+  {
+    "id": 271,
+    "domain": "nutrition_care",
+    "front": "What are the four components of the Portfolio Diet?",
+    "back": "Viscous soluble fibre, plant sterols (2 g/day), soy protein replacing animal protein, and nuts, particularly almonds."
+  },
+  {
+    "id": 272,
+    "domain": "nutrition_care",
+    "front": "How much LDL cholesterol reduction can the Portfolio Diet achieve, and what is it comparable to?",
+    "back": "A 20 to 30 percent reduction, comparable to a starting-dose statin."
+  },
+  {
+    "id": 273,
+    "domain": "nutrition_care",
+    "front": "What sodium restriction does the DASH pattern recommend for hypertension management?",
+    "back": "Less than 2000 mg of sodium per day."
+  },
+  {
+    "id": 274,
+    "domain": "nutrition_care",
+    "front": "What fluid and sodium restrictions are typical for heart failure management?",
+    "back": "Fluid restriction of roughly 1.5 to 2 litres per day and sodium restriction to less than 2000 mg per day, tighter in advanced disease."
+  },
+  {
+    "id": 275,
+    "domain": "nutrition_care",
+    "front": "What nutrition approach is used for cardiac cachexia in advanced heart failure?",
+    "back": "A shift toward energy- and protein-dense, smaller, more frequent meals rather than further dietary restriction."
+  },
+  {
+    "id": 276,
+    "domain": "nutrition_care",
+    "front": "Which framework is used to stage chronic kidney disease for nutrition therapy in Canada?",
+    "back": "The KDIGO staging framework, based on estimated glomerular filtration rate (eGFR)."
+  },
+  {
+    "id": 277,
+    "domain": "nutrition_care",
+    "front": "What protein intake is recommended for hemodialysis patients, and why is it elevated?",
+    "back": "1.0 to 1.2 g/kg/day or higher, elevated to offset amino acid losses that occur during dialysis."
+  },
+  {
+    "id": 278,
+    "domain": "nutrition_care",
+    "front": "Why do peritoneal dialysis patients typically need even higher protein intake than hemodialysis patients?",
+    "back": "Protein is continuously lost into the dialysate fluid, requiring 1.2 to 1.3 g/kg/day, while fluid restriction is generally more liberal."
+  },
+  {
+    "id": 279,
+    "domain": "nutrition_care",
+    "front": "Why is phosphorus binder use typically required with meals for hemodialysis patients?",
+    "back": "Dialysis removes phosphorus far less efficiently than functioning kidneys do, so serum phosphorus rises without binders."
+  },
+  {
+    "id": 280,
+    "domain": "nutrition_care",
+    "front": "How should potassium restriction be individualized in CKD?",
+    "back": "Based on trends in serum potassium rather than a fixed universal restriction, since unnecessary restriction reduces diet quality without benefit."
+  },
+  {
+    "id": 281,
+    "domain": "nutrition_care",
+    "front": "What nutrition focus shifts occur after a successful renal transplant?",
+    "back": "Higher protein and energy needs support wound healing immediately post-transplant, while long-term care shifts to cardiovascular risk reduction and monitoring for post-transplant diabetes, with prior restrictions usually liberalized."
+  },
+  {
+    "id": 282,
+    "domain": "nutrition_care",
+    "front": "What diet approach is typically used during an acute flare of inflammatory bowel disease?",
+    "back": "A low-residue or low-fibre diet to reduce mechanical irritation and symptom burden, liberalized during remission."
+  },
+  {
+    "id": 283,
+    "domain": "nutrition_care",
+    "front": "Why is vitamin B12 deficiency especially common in Crohn's disease affecting the terminal ileum?",
+    "back": "Vitamin B12 is absorbed in the terminal ileum, so disease or resection there impairs absorption."
+  },
+  {
+    "id": 284,
+    "domain": "nutrition_care",
+    "front": "What dietary restriction is required for celiac disease, and why is cross-contamination a concern?",
+    "back": "Strict, lifelong avoidance of gluten from wheat, barley, and rye; even small cross-contamination amounts trigger autoimmune villous damage."
+  },
+  {
+    "id": 285,
+    "domain": "nutrition_care",
+    "front": "Why might a newly diagnosed celiac disease patient need temporary lactose restriction?",
+    "back": "Villous damage reduces lactase-producing enterocytes, so lactose intolerance is common until the intestinal lining recovers."
+  },
+  {
+    "id": 286,
+    "domain": "nutrition_care",
+    "front": "What does the acronym FODMAP stand for in the low FODMAP diet for irritable bowel syndrome?",
+    "back": "Fermentable oligosaccharides, disaccharides, monosaccharides, and polyols."
+  },
+  {
+    "id": 287,
+    "domain": "nutrition_care",
+    "front": "What are the three phases of the low FODMAP diet?",
+    "back": "Strict elimination for two to six weeks, systematic reintroduction of FODMAP subgroups, and personalization to a sustainable long-term diet."
+  },
+  {
+    "id": 288,
+    "domain": "nutrition_care",
+    "front": "What guiding principle determines the choice between enteral and parenteral nutrition?",
+    "back": "\"If the gut works, use it\": enteral nutrition is preferred whenever the gastrointestinal tract is functional."
+  },
+  {
+    "id": 289,
+    "domain": "nutrition_care",
+    "front": "Why is enteral nutrition generally preferred over parenteral nutrition when the gut is functional?",
+    "back": "It maintains gut mucosal integrity and gut-associated immune function, and carries lower infectious complication risk and cost than parenteral nutrition."
+  },
+  {
+    "id": 290,
+    "domain": "nutrition_care",
+    "front": "When is post-pyloric or jejunal feeding preferred over gastric feeding?",
+    "back": "When gastric feeding carries a high aspiration risk."
+  },
+  {
+    "id": 291,
+    "domain": "nutrition_care",
+    "front": "When are semi-elemental or elemental enteral formulas indicated?",
+    "back": "For patients with malabsorption or severe pancreatic insufficiency, since these formulas require less digestive capacity."
+  },
+  {
+    "id": 292,
+    "domain": "nutrition_care",
+    "front": "What is refeeding syndrome, and what electrolyte shifts characterize it?",
+    "back": "A dangerous metabolic response to reintroducing carbohydrate in a severely malnourished patient, causing intracellular shifts of phosphate, potassium, and magnesium with resulting hypophosphatemia, hypokalemia, and hypomagnesemia."
+  },
+  {
+    "id": 293,
+    "domain": "nutrition_care",
+    "front": "How is refeeding syndrome prevented when starting nutrition support in a high-risk patient?",
+    "back": "Starting at a conservative caloric level (often 10 to 20 kcal/kg/day), correcting electrolytes before and during refeeding, and supplementing thiamine before carbohydrate delivery."
+  },
+  {
+    "id": 294,
+    "domain": "nutrition_care",
+    "front": "Why is thiamine given before carbohydrate delivery in refeeding syndrome prevention?",
+    "back": "To prevent Wernicke's encephalopathy, since carbohydrate metabolism depletes thiamine reserves in a depleted patient."
+  },
+  {
+    "id": 295,
+    "domain": "nutrition_care",
+    "front": "When is parenteral nutrition indicated instead of enteral nutrition?",
+    "back": "When the gastrointestinal tract is non-functional, inaccessible, or perforated, or needs cannot be met enterally."
+  },
+  {
+    "id": 296,
+    "domain": "nutrition_care",
+    "front": "What access is required for long-term or hypertonic parenteral nutrition formulations?",
+    "back": "Central venous access, due to the higher osmolarity of long-term parenteral formulations."
+  },
+  {
+    "id": 297,
+    "domain": "nutrition_care",
+    "front": "How does cancer cachexia differ from simple starvation?",
+    "back": "It is a multifactorial wasting syndrome involving systemic inflammation and altered metabolism with progressive muscle loss that nutrition support alone cannot fully reverse."
+  },
+  {
+    "id": 298,
+    "domain": "nutrition_care",
+    "front": "What is a common consequence of head and neck radiation therapy affecting nutrition intake?",
+    "back": "Severe mucositis, xerostomia (dry mouth), and dysphagia, which may persist long after treatment ends."
+  },
+  {
+    "id": 299,
+    "domain": "nutrition_care",
+    "front": "What screening tool was developed specifically for malnutrition risk in oncology patients?",
+    "back": "The Patient-Generated Subjective Global Assessment (PG-SGA)."
+  },
+  {
+    "id": 300,
+    "domain": "nutrition_care",
+    "front": "When should enteral nutrition be initiated in a hemodynamically stable, critically ill ICU patient?",
+    "back": "Within 24 to 48 hours of ICU admission, per Canadian Clinical Practice Guidelines for critical care nutrition."
+  },
+  {
+    "id": 301,
+    "domain": "nutrition_care",
+    "front": "Why has routine gastric residual volume monitoring been de-emphasized in current ICU practice?",
+    "back": "Routine checks do not reliably predict aspiration risk and may cause unnecessary feeding interruptions; monitoring clinical signs of intolerance is preferred."
+  },
+  {
+    "id": 302,
+    "domain": "nutrition_care",
+    "front": "What is permissive underfeeding in critical care nutrition, and why might it be used early in illness?",
+    "back": "Deliberately providing less than full estimated energy needs in the acute early phase, since evidence suggests this may reduce complications compared with early full feeding."
+  },
+  {
+    "id": 303,
+    "domain": "nutrition_care",
+    "front": "What protein range is often targeted in critically ill patients, and why is it elevated?",
+    "back": "1.2 to 2.0 g/kg/day or higher, to offset the profound catabolism seen in conditions like major trauma, burns, and sepsis."
+  },
+  {
+    "id": 304,
+    "domain": "nutrition_care",
+    "front": "How does a true food allergy differ mechanistically from a food intolerance?",
+    "back": "A food allergy is immune-mediated, often IgE-mediated, and can cause anaphylaxis; a food intolerance does not involve the immune system and is typically dose-dependent."
+  },
+  {
+    "id": 305,
+    "domain": "nutrition_care",
+    "front": "What are Health Canada's priority food allergens that must be declared on packaged food labels?",
+    "back": "Peanuts, tree nuts, milk, eggs, fish, shellfish, wheat, soy, sesame, and mustard, along with sulphites at declared thresholds."
+  },
+  {
+    "id": 306,
+    "domain": "nutrition_care",
+    "front": "What causes lactose intolerance, and how does its management typically differ from a food allergy's management?",
+    "back": "Insufficient lactase enzyme activity; management usually involves limiting rather than fully eliminating dairy, since small amounts and hard cheese or yogurt are often tolerated."
+  },
+  {
+    "id": 307,
+    "domain": "nutrition_care",
+    "front": "How does non-celiac gluten sensitivity differ from celiac disease?",
+    "back": "It produces symptoms with gluten exposure without the autoimmune villous damage of celiac disease, and celiac disease must be ruled out first."
+  },
+  {
+    "id": 308,
+    "domain": "nutrition_care",
+    "front": "Why does warfarin therapy require consistent, rather than low, vitamin K intake?",
+    "back": "Fluctuating vitamin K intake destabilizes the INR used to monitor anticoagulation; the goal is dietary consistency, not vitamin K avoidance."
+  },
+  {
+    "id": 309,
+    "domain": "nutrition_care",
+    "front": "What food restriction is required with monoamine oxidase inhibitors (MAOIs), and why?",
+    "back": "Avoidance of tyramine-rich aged, fermented, and cured foods, because accumulated tyramine can precipitate a hypertensive crisis when monoamine oxidase is inhibited."
+  },
+  {
+    "id": 310,
+    "domain": "nutrition_care",
+    "front": "How does grapefruit juice interact with certain medications?",
+    "back": "It inhibits intestinal cytochrome P450 3A4 enzyme activity, increasing blood levels of medications metabolized through this pathway, such as certain statins and calcium channel blockers."
+  },
+  {
+    "id": 311,
+    "domain": "nutrition_care",
+    "front": "Why should dairy products be separated in timing from tetracycline or fluoroquinolone antibiotics?",
+    "back": "These antibiotics chelate with calcium and other divalent cations, reducing antibiotic absorption when taken together."
+  },
+  {
+    "id": 312,
+    "domain": "nutrition_care",
+    "front": "What nutrition monitoring concerns arise with long-term corticosteroid use?",
+    "back": "Sodium retention, hyperglycemia, increased protein catabolism, and increased calcium and vitamin D needs to offset steroid-induced bone loss."
+  },
+  {
+    "id": 313,
+    "domain": "nutrition_care",
+    "front": "What is the risk of combining potassium-sparing diuretics with potassium supplements or potassium-containing salt substitutes?",
+    "back": "An increased risk of hyperkalemia."
+  },
+  {
+    "id": 314,
+    "domain": "nutrition_care",
+    "front": "What electrolyte losses are associated with loop and thiazide diuretics?",
+    "back": "Potassium and magnesium loss, which may require monitoring and supplementation."
+  },
+  {
+    "id": 315,
+    "domain": "nutrition_care",
+    "front": "What eating patterns does Diabetes Canada endorse rather than a single prescriptive diet?",
+    "back": "Mediterranean-style, DASH-style, vegetarian or vegan, and lower-glycemic-index patterns, provided each meets individual preferences and glycemic targets."
+  },
+  {
+    "id": 316,
+    "domain": "nutrition_care",
+    "front": "How much additional A1C improvement can choosing lower-glycemic-index carbohydrates provide?",
+    "back": "Approximately 0.2 to 0.5 percent, beyond carbohydrate quantity management alone."
+  },
+  {
+    "id": 317,
+    "domain": "nutrition_care",
+    "front": "How often should fatty fish be consumed for cardiovascular risk reduction, per Heart and Stroke Foundation guidance?",
+    "back": "Twice weekly, as a source of omega-3 fatty acids."
+  },
+  {
+    "id": 318,
+    "domain": "nutrition_care",
+    "front": "What protein target is appropriate for earlier-stage CKD (stages 1 to 3a, eGFR above 45)?",
+    "back": "Moderate protein intake around 0.8 g/kg/day, avoiding excessive restriction that could compromise nutritional status."
+  },
+  {
+    "id": 319,
+    "domain": "nutrition_care",
+    "front": "How is fluid restriction typically set for a hemodialysis patient?",
+    "back": "Based on interdialytic weight gain targets, often limited to roughly 1000 mL plus urine output."
+  },
+  {
+    "id": 320,
+    "domain": "nutrition_care",
+    "front": "What deficiencies should be screened for in inflammatory bowel disease due to malabsorption and increased losses?",
+    "back": "Iron, vitamin B12, vitamin D, and zinc."
+  },
+  {
+    "id": 321,
+    "domain": "nutrition_care",
+    "front": "What deficiencies are common at celiac disease diagnosis due to years of malabsorption?",
+    "back": "Iron, folate, and vitamin D deficiencies."
+  },
+  {
+    "id": 322,
+    "domain": "nutrition_care",
+    "front": "What nutrition strategy may help manage short bowel syndrome and severe malabsorption?",
+    "back": "A combination of oral rehydration solutions, soluble fibre to slow transit, and in severe cases, parenteral nutrition support."
+  },
+  {
+    "id": 323,
+    "domain": "nutrition_care",
+    "front": "Why does a standard nasogastric tube generally suit only short-term enteral feeding?",
+    "back": "It is typically appropriate for feeding durations under four to six weeks, with longer-term needs served by a PEG tube."
+  },
+  {
+    "id": 324,
+    "domain": "nutrition_care",
+    "front": "What complication risks does long-term parenteral nutrition carry beyond central line infection?",
+    "back": "PN-associated liver disease and metabolic complications requiring monitoring of blood glucose, triglycerides, and liver function."
+  },
+  {
+    "id": 325,
+    "domain": "nutrition_care",
+    "front": "What practical nutrition strategies help manage cancer treatment side effects like nausea and mucositis?",
+    "back": "Small, frequent, energy- and protein-dense meals, texture modification, antiemetic strategies for nausea, and oral nutrition supplements when intake alone is insufficient."
+  },
+  {
+    "id": 326,
+    "domain": "nutrition_care",
+    "front": "What does radiation enteritis from abdominal or pelvic radiation typically cause?",
+    "back": "Diarrhea and malabsorption."
+  },
+  {
+    "id": 327,
+    "domain": "nutrition_care",
+    "front": "Why is indirect calorimetry preferred over predictive equations for estimating energy needs in critical illness when available?",
+    "back": "It provides a more individualized measurement of actual energy expenditure than population-based predictive equations."
+  },
+  {
+    "id": 328,
+    "domain": "nutrition_care",
+    "front": "What documentation and scope-of-practice standard do provincial regulatory colleges require of Canadian dietitians?",
+    "back": "Nutrition care plans must be documented, evidence-informed, and within the dietitian's individual scope of competence, escalating or consulting when a case exceeds that scope."
+  },
+  {
+    "id": 329,
+    "domain": "nutrition_care",
+    "front": "What is the underlying nutrition care philosophy that connects assessment, guideline knowledge, and monitoring across clinical conditions?",
+    "back": "Individualized application of the nutrition care process, translating evidence-based guidelines into a person's real dietary pattern while monitoring and adjusting as clinical status changes."
+  },
+  {
+    "id": 330,
+    "domain": "nutrition_care",
+    "front": "Why is dietary consistency, rather than low intake, the correct approach to vitamin K for a patient on warfarin?",
+    "back": "Warfarin works by antagonizing vitamin K; stable day-to-day intake keeps the INR predictable, while fluctuating intake causes unpredictable swings in anticoagulation."
+  },
+  {
+    "id": 331,
+    "domain": "population_health_promotion",
+    "front": "What year was Canada's current Food Guide released, and what model replaced food groups and servings?",
+    "back": "2019. The plate-based model replaced the old four food groups and specific serving counts."
+  },
+  {
+    "id": 332,
+    "domain": "population_health_promotion",
+    "front": "In the 2019 Canada's Food Guide plate model, what proportion of the plate is vegetables and fruits?",
+    "back": "Half the plate, with protein foods and whole grain foods each filling one quarter."
+  },
+  {
+    "id": 333,
+    "domain": "population_health_promotion",
+    "front": "What beverage does the 2019 Canada's Food Guide promote as the beverage of choice?",
+    "back": "Water."
+  },
+  {
+    "id": 334,
+    "domain": "population_health_promotion",
+    "front": "Beyond the plate, what three behavioural themes does the 2019 Food Guide emphasize?",
+    "back": "Being mindful of eating habits, cooking more often, and eating meals with others, alongside using food labels."
+  },
+  {
+    "id": 335,
+    "domain": "population_health_promotion",
+    "front": "Why did Health Canada develop the 2019 Food Guide without direct food industry consultation on core recommendations?",
+    "back": "To reduce conflict of interest, following criticism that earlier editions were influenced by industry input."
+  },
+  {
+    "id": 336,
+    "domain": "population_health_promotion",
+    "front": "What is household food security defined as?",
+    "back": "Physical and economic access at all times to sufficient, safe, and nutritious food that meets dietary needs for an active, healthy life."
+  },
+  {
+    "id": 337,
+    "domain": "population_health_promotion",
+    "front": "What tool does Statistics Canada use to measure household food insecurity, and how many items does it contain?",
+    "back": "The Household Food Security Survey Module, an 18-item validated tool."
+  },
+  {
+    "id": 338,
+    "domain": "population_health_promotion",
+    "front": "What survey embeds the Household Food Security Survey Module for national data collection?",
+    "back": "The Canadian Community Health Survey, and since 2019 also the Canadian Income Survey."
+  },
+  {
+    "id": 339,
+    "domain": "population_health_promotion",
+    "front": "What are the four classification levels of the Household Food Security Survey Module?",
+    "back": "Food secure, marginally food insecure, moderately food insecure, and severely food insecure."
+  },
+  {
+    "id": 340,
+    "domain": "population_health_promotion",
+    "front": "What distinguishes moderately food insecure from severely food insecure households?",
+    "back": "Moderate involves compromised quality or quantity of food; severe involves reduced food intake and disrupted eating patterns, including hunger."
+  },
+  {
+    "id": 341,
+    "domain": "population_health_promotion",
+    "front": "What research program based at the University of Toronto produces national food insecurity monitoring data?",
+    "back": "PROOF."
+  },
+  {
+    "id": 342,
+    "domain": "population_health_promotion",
+    "front": "Approximately what proportion of Canadian households experiences some level of food insecurity, per national monitoring?",
+    "back": "Roughly one in four households, per the most recent PROOF/Canadian Income Survey data, a rate that has risen for several consecutive years."
+  },
+  {
+    "id": 343,
+    "domain": "population_health_promotion",
+    "front": "Which household types have substantially higher food insecurity rates in Canada?",
+    "back": "Lone-parent female-led households, households relying on social assistance, Black and Indigenous households, and households in the territories."
+  },
+  {
+    "id": 344,
+    "domain": "population_health_promotion",
+    "front": "Is food insecurity in Canada fundamentally a food supply problem or an income problem?",
+    "back": "An income and financial resource problem, not primarily a food supply or food literacy problem."
+  },
+  {
+    "id": 345,
+    "domain": "population_health_promotion",
+    "front": "Why do food banks not resolve food insecurity at a population level?",
+    "back": "They do not address the underlying lack of income, and food insecurity persists even where food banks are well used."
+  },
+  {
+    "id": 346,
+    "domain": "population_health_promotion",
+    "front": "Name two income-based policy levers linked to reduced food insecurity in Canadian research.",
+    "back": "The Canada Child Benefit and adequate income assistance or minimum wage rates."
+  },
+  {
+    "id": 347,
+    "domain": "population_health_promotion",
+    "front": "What is a basic income guarantee, in the context of food insecurity policy debate?",
+    "back": "A proposed income policy providing a minimum guaranteed income, associated in research with reductions in food insecurity where implemented."
+  },
+  {
+    "id": 348,
+    "domain": "population_health_promotion",
+    "front": "What error does a dietitian make by treating food insecurity as a food literacy problem alone?",
+    "back": "It misattributes an income-driven problem to lack of knowledge, and food education alone does not resolve inadequate income."
+  },
+  {
+    "id": 349,
+    "domain": "population_health_promotion",
+    "front": "List at least five social determinants of health relevant to nutrition status in Canada.",
+    "back": "Income and income distribution, education, employment and working conditions, food insecurity, housing, early childhood development, Indigenous status, and social exclusion."
+  },
+  {
+    "id": 350,
+    "domain": "population_health_promotion",
+    "front": "What explains more variation in population health outcomes: health behaviours or the social determinants of health?",
+    "back": "The social determinants of health explain far more variation in health outcomes than health behaviours or health care access alone."
+  },
+  {
+    "id": 351,
+    "domain": "population_health_promotion",
+    "front": "Define nutrition equity.",
+    "back": "The principle that dietetic practice and policy should work to close health gaps arising from unjust and avoidable social conditions, rather than treating all populations identically."
+  },
+  {
+    "id": 352,
+    "domain": "population_health_promotion",
+    "front": "What is intervention-generated inequity?",
+    "back": "When a universal intervention delivered without attention to differential access benefits those already advantaged more than those with greater need, widening disparities."
+  },
+  {
+    "id": 353,
+    "domain": "population_health_promotion",
+    "front": "Name three strategies a dietitian can use to design programs with an equity lens.",
+    "back": "Removing cost barriers, culturally tailored messaging, and community co-design rather than one-size-fits-all programming."
+  },
+  {
+    "id": 354,
+    "domain": "population_health_promotion",
+    "front": "What are the two data sources typically combined in a community nutrition needs assessment?",
+    "back": "Quantitative data such as survey and program utilization data, and qualitative data such as community consultation and key informant interviews."
+  },
+  {
+    "id": 355,
+    "domain": "population_health_promotion",
+    "front": "What does the PRECEDE-PROCEED model do?",
+    "back": "It works backward from desired health and quality-of-life outcomes through behavioural, environmental, and educational diagnoses to identify appropriate interventions."
+  },
+  {
+    "id": 356,
+    "domain": "population_health_promotion",
+    "front": "What four elements does a logic model map in program planning?",
+    "back": "Inputs, activities, outputs, and short, medium, and long-term outcomes."
+  },
+  {
+    "id": 357,
+    "domain": "population_health_promotion",
+    "front": "Distinguish process evaluation from outcome evaluation.",
+    "back": "Process evaluation measures whether a program was implemented as intended, including reach and fidelity; outcome evaluation measures whether it achieved its intended effects."
+  },
+  {
+    "id": 358,
+    "domain": "population_health_promotion",
+    "front": "Distinguish formative evaluation from summative evaluation.",
+    "back": "Formative evaluation occurs during program development to refine design; summative evaluation occurs after the program runs to judge overall effectiveness."
+  },
+  {
+    "id": 359,
+    "domain": "population_health_promotion",
+    "front": "Why should evaluation indicators be specified at the planning stage, before a program launches?",
+    "back": "So baseline data exists for comparison, allowing a meaningful before-and-after or comparative evaluation."
+  },
+  {
+    "id": 360,
+    "domain": "population_health_promotion",
+    "front": "What is the dominant health promotion framework taught in Canadian public health nutrition?",
+    "back": "The socio-ecological model."
+  },
+  {
+    "id": 361,
+    "domain": "population_health_promotion",
+    "front": "List the five nested levels of the socio-ecological model.",
+    "back": "Individual, interpersonal, organizational or institutional, community, and public policy."
+  },
+  {
+    "id": 362,
+    "domain": "population_health_promotion",
+    "front": "Why does individual-level nutrition education alone rarely produce lasting population-level change?",
+    "back": "Because behaviour is shaped by environments and policies that individuals cannot control through knowledge or willpower alone."
+  },
+  {
+    "id": 363,
+    "domain": "population_health_promotion",
+    "front": "Give an example of a community-level intervention under the socio-ecological model addressing childhood obesity.",
+    "back": "Improving affordable produce access in the neighbourhood food environment or municipal zoning limiting fast food outlet density."
+  },
+  {
+    "id": 364,
+    "domain": "population_health_promotion",
+    "front": "Where and when was the Ottawa Charter for Health Promotion developed?",
+    "back": "In Canada in 1986, at the first International Conference on Health Promotion."
+  },
+  {
+    "id": 365,
+    "domain": "population_health_promotion",
+    "front": "List the five action areas of the Ottawa Charter for Health Promotion.",
+    "back": "Building healthy public policy, creating supportive environments, strengthening community action, developing personal skills, and reorienting health services."
+  },
+  {
+    "id": 366,
+    "domain": "population_health_promotion",
+    "front": "Define Indigenous food sovereignty.",
+    "back": "The right of Indigenous peoples to define their own food and agriculture systems and determine their own food and land use policies, centring self-determination and cultural connection."
+  },
+  {
+    "id": 367,
+    "domain": "population_health_promotion",
+    "front": "How does food sovereignty differ from food security?",
+    "back": "Food security focuses on access to sufficient food, while food sovereignty centres self-determination and control over the food system itself, not only nutrient adequacy."
+  },
+  {
+    "id": 368,
+    "domain": "population_health_promotion",
+    "front": "What role do traditional and country foods play for many First Nations, Inuit, and Métis communities?",
+    "back": "They are nutritionally dense and tied to cultural identity, land-based knowledge transmission, spiritual practice, and community relationships."
+  },
+  {
+    "id": 369,
+    "domain": "population_health_promotion",
+    "front": "Name three barriers to traditional food access in Indigenous communities.",
+    "back": "Climate change altering migration and harvest patterns, environmental contaminants such as mercury, and the high cost of hunting and fishing equipment."
+  },
+  {
+    "id": 370,
+    "domain": "population_health_promotion",
+    "front": "What is Nutrition North Canada?",
+    "back": "The federal subsidy program intended to improve access to perishable healthy food and support traditional harvesting in isolated northern communities without year-round road, rail, or marine access."
+  },
+  {
+    "id": 371,
+    "domain": "population_health_promotion",
+    "front": "What criticisms have been raised about Nutrition North Canada?",
+    "back": "Inadequate transparency in how subsidies reach consumers, insufficient support for traditional harvesting, and persistently high food costs despite the subsidy."
+  },
+  {
+    "id": 372,
+    "domain": "population_health_promotion",
+    "front": "What professional stance should a dietitian take when working with Indigenous communities on food sovereignty?",
+    "back": "Practise cultural humility, support Indigenous-led initiatives, and recognize food sovereignty as a distinct determinant of health from food security."
+  },
+  {
+    "id": 373,
+    "domain": "population_health_promotion",
+    "front": "Under which dietetic practice competency roles do policy and advocacy work fall in Canada?",
+    "back": "Policy developer and advocate."
+  },
+  {
+    "id": 374,
+    "domain": "population_health_promotion",
+    "front": "Give an example of a municipal-level nutrition policy lever.",
+    "back": "Zoning that limits fast food outlet density near schools, or a municipal food charter or food policy council."
+  },
+  {
+    "id": 375,
+    "domain": "population_health_promotion",
+    "front": "What is the National School Food Program, announced in the 2024 federal budget?",
+    "back": "Canada's first national school food policy framework, intended to be implemented in partnership with provinces, territories, and Indigenous partners."
+  },
+  {
+    "id": 376,
+    "domain": "population_health_promotion",
+    "front": "What federal regulation on food packaging took effect for Canadian manufacturers beginning in 2026?",
+    "back": "Front-of-package labelling for foods high in sodium, sugars, and saturated fat."
+  },
+  {
+    "id": 377,
+    "domain": "population_health_promotion",
+    "front": "What is the core role of a provincial regulatory college for dietitians, such as the College of Dietitians of Ontario?",
+    "back": "Public protection through registration, standards of practice, and discipline."
+  },
+  {
+    "id": 378,
+    "domain": "population_health_promotion",
+    "front": "What is the core role of Dietitians of Canada, distinct from a provincial regulatory college?",
+    "back": "Advocating for the profession and for nutrition policy; membership is voluntary and distinct from provincial regulatory obligations."
+  },
+  {
+    "id": 379,
+    "domain": "population_health_promotion",
+    "front": "Does a Registered Dietitian's legal scope of practice flow from Dietitians of Canada membership or from the provincial college?",
+    "back": "From the provincial regulatory college, not from Dietitians of Canada membership."
+  },
+  {
+    "id": 380,
+    "domain": "population_health_promotion",
+    "front": "What is the prevention paradox in population-level chronic disease prevention?",
+    "back": "A small risk reduction applied across a whole population often prevents more disease burden than an intensive intervention applied only to a small high-risk group."
+  },
+  {
+    "id": 381,
+    "domain": "population_health_promotion",
+    "front": "Where does most dietary sodium in the Canadian diet come from?",
+    "back": "Processed and prepared foods, not the salt shaker."
+  },
+  {
+    "id": 382,
+    "domain": "population_health_promotion",
+    "front": "Why does population-level sodium reduction target the food supply rather than individual counselling alone?",
+    "back": "Because most sodium intake comes from processed and prepared foods, so reformulating the food supply reaches more people than counselling individuals."
+  },
+  {
+    "id": 383,
+    "domain": "population_health_promotion",
+    "front": "Which two Canadian organizations provide the reference clinical practice guidelines for diabetes and cardiovascular disease prevention?",
+    "back": "Diabetes Canada and the Heart and Stroke Foundation of Canada."
+  },
+  {
+    "id": 384,
+    "domain": "population_health_promotion",
+    "front": "Why should a Canadian dietitian apply Diabetes Canada guidelines over American Diabetes Association guidelines?",
+    "back": "Because screening thresholds, target values, and terminology sometimes differ between Canadian and American guidance."
+  },
+  {
+    "id": 385,
+    "domain": "population_health_promotion",
+    "front": "Give an example of a built environment intervention for chronic disease prevention.",
+    "back": "Improving access to physical activity infrastructure and healthy food retail in a neighbourhood."
+  },
+  {
+    "id": 386,
+    "domain": "population_health_promotion",
+    "front": "Define nutrition surveillance.",
+    "back": "The ongoing, systematic collection, analysis, and interpretation of population-level nutrition and health data used to monitor trends and guide policy."
+  },
+  {
+    "id": 387,
+    "domain": "population_health_promotion",
+    "front": "What is the primary national data source for population health and nutrition surveillance in Canada?",
+    "back": "The Canadian Community Health Survey, conducted by Statistics Canada."
+  },
+  {
+    "id": 388,
+    "domain": "population_health_promotion",
+    "front": "What dietary intake data does the Canadian Community Health Survey's nutrition component collect?",
+    "back": "24-hour dietary recall data, used to estimate population dietary intake against reference standards such as the Dietary Reference Intakes."
+  },
+  {
+    "id": 389,
+    "domain": "population_health_promotion",
+    "front": "What does the Canadian Health Measures Survey add beyond self-reported questionnaire data?",
+    "back": "Direct physical measurements such as height, weight, and blood biomarkers, overcoming limitations of self-reported data alone."
+  },
+  {
+    "id": 390,
+    "domain": "population_health_promotion",
+    "front": "What surveillance source tracks food insecurity at the population level in Canada?",
+    "back": "The Household Food Security Survey Module, embedded in the Canadian Community Health Survey and Canadian Income Survey."
+  },
+  {
+    "id": 391,
+    "domain": "population_health_promotion",
+    "front": "How does surveillance differ from a one-time needs assessment or research study?",
+    "back": "Surveillance is ongoing and population-focused, while a needs assessment or research study is time-limited and often more localized."
+  },
+  {
+    "id": 392,
+    "domain": "population_health_promotion",
+    "front": "How does surveillance data typically prompt a new public health nutrition program?",
+    "back": "Surveillance documenting a worsening trend, such as rising food insecurity in a subgroup, is often the starting point that prompts a new program or policy response."
+  },
+  {
+    "id": 393,
+    "domain": "population_health_promotion",
+    "front": "What is a key criticism of relying on charitable food banks as the main response to food insecurity?",
+    "back": "Food banks do not address the underlying income shortfall and capture only a fraction of food-insecure households."
+  },
+  {
+    "id": 394,
+    "domain": "population_health_promotion",
+    "front": "What does the 2019 Food Guide recommend regarding protein food sources?",
+    "back": "Choosing plant-based protein sources such as legumes, tofu, and nuts more often, alongside fish, lower-fat dairy, and lean meats."
+  },
+  {
+    "id": 395,
+    "domain": "population_health_promotion",
+    "front": "How does the 2019 Food Guide support institutional and policy use beyond individual guidance?",
+    "back": "It underpins institutional menu standards in schools, correctional facilities, and long-term care, and informs food subsidy and procurement policy."
+  },
+  {
+    "id": 396,
+    "domain": "population_health_promotion",
+    "front": "Why is the 2019 Food Guide's plate model intentionally generic rather than food-specific?",
+    "back": "So it can be adapted to diverse food cultures while keeping the underlying proportions of vegetables and fruit, protein, and whole grains consistent."
+  },
+  {
+    "id": 397,
+    "domain": "population_health_promotion",
+    "front": "What territory has recorded food insecurity rates exceeding half of all households in some survey years?",
+    "back": "Nunavut."
+  },
+  {
+    "id": 398,
+    "domain": "population_health_promotion",
+    "front": "What organization publishes the Auditor General findings criticizing Nutrition North Canada's transparency?",
+    "back": "The Auditor General of Canada."
+  },
+  {
+    "id": 399,
+    "domain": "population_health_promotion",
+    "front": "What is a healthy public policy, per the Ottawa Charter action area?",
+    "back": "Policy at any level of government, such as municipal, provincial, or federal, that supports population health, such as zoning or food labelling law."
+  },
+  {
+    "id": 400,
+    "domain": "population_health_promotion",
+    "front": "What is meant by community action in the Ottawa Charter framework?",
+    "back": "Strengthening community action, meaning empowering communities to set priorities and take action on their own health, rather than only receiving top-down programming."
+  },
+  {
+    "id": 401,
+    "domain": "population_health_promotion",
+    "front": "What does reorienting health services mean under the Ottawa Charter?",
+    "back": "Shifting health services toward prevention and health promotion rather than treatment alone."
+  },
+  {
+    "id": 402,
+    "domain": "population_health_promotion",
+    "front": "Why is coalition work with organizations like Dietitians of Canada important for effective advocacy?",
+    "back": "It combines professional evidence and credibility with broader civil society reach, and directs advocacy to the relevant level of government."
+  },
+  {
+    "id": 403,
+    "domain": "population_health_promotion",
+    "front": "What is a food policy council?",
+    "back": "A municipal-level body that brings together stakeholders to develop coordinated local food policy, such as a food charter."
+  },
+  {
+    "id": 404,
+    "domain": "population_health_promotion",
+    "front": "How does marketing restriction legislation aimed at children function as a chronic disease prevention tool?",
+    "back": "It limits children's exposure to marketing of foods and beverages high in sodium, sugars, or saturated fat, reducing a driver of poor dietary patterns at a population level."
+  },
+  {
+    "id": 405,
+    "domain": "population_health_promotion",
+    "front": "What is the purpose of front-of-package labelling for high sodium, sugars, or saturated fat?",
+    "back": "To make products high in these nutrients immediately identifiable to consumers at the point of purchase."
+  },
+  {
+    "id": 406,
+    "domain": "population_health_promotion",
+    "front": "Why might a sugar-sweetened beverage tax be proposed as a population health measure?",
+    "back": "As a policy lever to reduce consumption of sugar-sweetened beverages across a population, complementing labelling and marketing restrictions."
+  },
+  {
+    "id": 407,
+    "domain": "population_health_promotion",
+    "front": "What is meant by dose and fidelity in process evaluation?",
+    "back": "Dose refers to how much of the program participants actually received; fidelity refers to whether the program was delivered as originally designed."
+  },
+  {
+    "id": 408,
+    "domain": "population_health_promotion",
+    "front": "Why is a needs assessment that combines both quantitative and qualitative data considered stronger than either alone?",
+    "back": "Administrative and survey data show patterns but may miss context, while community consultation can surface lived-experience priorities that data alone cannot capture."
+  },
+  {
+    "id": 409,
+    "domain": "population_health_promotion",
+    "front": "What does it mean for a determinant of health to be described as avoidable and unjust in the context of nutrition equity?",
+    "back": "It means the resulting health disparity arises from unfair social conditions that could be changed through policy, not from unavoidable biological or personal factors."
+  },
+  {
+    "id": 410,
+    "domain": "population_health_promotion",
+    "front": "Give an example of institutional-level influence on eating behaviour under the socio-ecological model.",
+    "back": "A school's food policy or a workplace cafeteria's menu offerings."
+  },
+  {
+    "id": 411,
+    "domain": "population_health_promotion",
+    "front": "What organizational bias might arise if a dietitian relies only on food bank usage statistics to measure community food insecurity?",
+    "back": "Food bank usage captures only a fraction of food-insecure households, so it underestimates true population food insecurity."
+  },
+  {
+    "id": 412,
+    "domain": "population_health_promotion",
+    "front": "What is the relationship between income policy and nutrition policy in a population health context?",
+    "back": "Income policy, such as minimum wage or income assistance rates, functions as a nutrition policy lever because food insecurity is primarily an income problem."
+  },
+  {
+    "id": 413,
+    "domain": "population_health_promotion",
+    "front": "Why is multi-level intervention, addressing several socio-ecological levels at once, generally more effective than single-level intervention?",
+    "back": "Multi-level interventions address both individual behaviour and the environments and policies shaping that behaviour, producing larger and more sustained effects."
+  },
+  {
+    "id": 414,
+    "domain": "population_health_promotion",
+    "front": "What is an example of a provincial-level nutrition policy lever?",
+    "back": "A provincial school food program or a provincial poverty reduction strategy."
+  },
+  {
+    "id": 415,
+    "domain": "population_health_promotion",
+    "front": "How did residential schools and forced relocation affect Indigenous food systems?",
+    "back": "They disrupted traditional food systems, with measurable negative effects on nutrition status and overall wellbeing that continue today."
+  },
+  {
+    "id": 416,
+    "domain": "population_health_promotion",
+    "front": "What environmental contaminant is a known barrier to traditional food harvesting in some northern regions?",
+    "back": "Mercury contamination in some fish and wildlife."
+  },
+  {
+    "id": 417,
+    "domain": "population_health_promotion",
+    "front": "Why is it important for a dietitian to specify evaluation indicators before a community program launches, rather than after?",
+    "back": "Baseline data collected before launch is required to make a meaningful comparison of outcomes after the program runs."
+  },
+  {
+    "id": 418,
+    "domain": "population_health_promotion",
+    "front": "What is a logic model used for beyond initial program planning?",
+    "back": "It is also used for evaluation, since it maps the expected chain from activities to outputs to short, medium, and long-term outcomes that evaluation can then measure."
+  },
+  {
+    "id": 419,
+    "domain": "population_health_promotion",
+    "front": "Why does the CDRE expect candidates to distinguish nutrition surveillance from a single research study?",
+    "back": "Because choosing the right data source for a population health scenario depends on knowing whether ongoing population monitoring or a time-limited localized study is appropriate."
+  },
+  {
+    "id": 420,
+    "domain": "population_health_promotion",
+    "front": "What common thread links Canada's Food Guide, front-of-package labelling, and school food programs as population health tools?",
+    "back": "All three are population-level interventions that shape the food environment and policy context rather than relying solely on individual education."
+  },
+  {
+    "id": 421,
+    "domain": "food_provision",
+    "front": "What is a master cycle menu?",
+    "back": "A repeating sequence of menus, commonly 3 to 6 weeks long, designed to provide variety while allowing predictable procurement, staffing, and production planning."
+  },
+  {
+    "id": 422,
+    "domain": "food_provision",
+    "front": "What edition of Canada's Food Guide is current for institutional menu planning, and what is its key structural feature?",
+    "back": "The 2019 edition, which uses a plate-based visual model instead of the older food groups and servings system."
+  },
+  {
+    "id": 423,
+    "domain": "food_provision",
+    "front": "What is a non-selective menu?",
+    "back": "A menu format where every resident on a given diet order receives the same meal, with no choice of entree, which lowers cost and production complexity but may reduce satisfaction."
+  },
+  {
+    "id": 424,
+    "domain": "food_provision",
+    "front": "What is a selective menu?",
+    "back": "A menu format offering a choice of two or more entrees at each meal, which tends to improve satisfaction and intake but increases production complexity and food cost."
+  },
+  {
+    "id": 425,
+    "domain": "food_provision",
+    "front": "What is an 'always available' or 'alternative' list in long-term care menu planning?",
+    "back": "A short standing set of items, such as a sandwich, soup, or omelette, that residents can request instead of the scheduled menu, supporting choice without full a la carte complexity."
+  },
+  {
+    "id": 426,
+    "domain": "food_provision",
+    "front": "Why should menu evaluation include plate waste studies, not just nutrient analysis?",
+    "back": "A menu can meet every nutrient target on paper yet be poorly accepted by residents, leading to low actual intake; plate waste and resident feedback capture real-world consumption."
+  },
+  {
+    "id": 427,
+    "domain": "food_provision",
+    "front": "What role does a registered dietitian typically play in long-term care menu approval?",
+    "back": "The RD reviews and signs off on the cycle menu at set intervals, often annually or with any substantive change, to confirm it meets nutrition standards and regulatory requirements."
+  },
+  {
+    "id": 428,
+    "domain": "food_provision",
+    "front": "What is a therapeutic diet manual?",
+    "back": "A reference document, approved by the facility's medical advisory committee and reviewed by an RD, defining every diet order that can be prescribed, its nutrient parameters, and permitted or restricted foods."
+  },
+  {
+    "id": 429,
+    "domain": "food_provision",
+    "front": "Why must a diet manual specify an exact sodium target rather than a vague term like 'low salt'?",
+    "back": "Vague descriptors create ambiguity in production and monitoring; an exact milligram target gives kitchen staff and clinicians an unambiguous, measurable standard to follow."
+  },
+  {
+    "id": 430,
+    "domain": "food_provision",
+    "front": "What are common therapeutic diets used in Canadian institutional practice?",
+    "back": "Regular, diabetic or carbohydrate-consistent, renal, cardiac or sodium-restricted, low-fibre, high-protein/high-calorie, and fluid-restricted diets, among others."
+  },
+  {
+    "id": 431,
+    "domain": "food_provision",
+    "front": "What should a registered dietitian do when a diet order is clinically inappropriate for a resident's overall status?",
+    "back": "The RD should communicate with the prescriber to clarify or recommend liberalization, such as when a strict renal diet is ordered for a resident who is underweight and at risk of malnutrition."
+  },
+  {
+    "id": 432,
+    "domain": "food_provision",
+    "front": "What is the function of a computerized dietary software system in diet order management?",
+    "back": "It links the diet order, allergies, texture and fluid level, and preferences into one profile and generates a tray ticket or pick list for kitchen production."
+  },
+  {
+    "id": 433,
+    "domain": "food_provision",
+    "front": "What federal legislation sets requirements for federally regulated food businesses in Canada?",
+    "back": "The Safe Food for Canadians Act and its regulations, supported by guidance from the Canadian Food Inspection Agency and Health Canada."
+  },
+  {
+    "id": 434,
+    "domain": "food_provision",
+    "front": "At what level of government are institutional kitchen inspections typically enforced?",
+    "back": "At the provincial and municipal level, through public health units enforcing food premises regulations."
+  },
+  {
+    "id": 435,
+    "domain": "food_provision",
+    "front": "What does HACCP stand for?",
+    "back": "Hazard Analysis and Critical Control Point, a systematic approach to identifying and controlling food safety hazards."
+  },
+  {
+    "id": 436,
+    "domain": "food_provision",
+    "front": "List the seven core principles of HACCP.",
+    "back": "Conduct a hazard analysis, identify critical control points, establish critical limits, establish monitoring procedures, establish corrective actions, establish verification procedures, and establish record-keeping and documentation."
+  },
+  {
+    "id": 437,
+    "domain": "food_provision",
+    "front": "What is a critical control point in HACCP?",
+    "back": "A specific step in the food handling process where a hazard can be prevented, eliminated, or reduced to an acceptable level, such as cooking to a validated temperature."
+  },
+  {
+    "id": 438,
+    "domain": "food_provision",
+    "front": "What is the generally recognized temperature danger zone in Canadian food safety guidance?",
+    "back": "4 to 60 degrees Celsius, the range in which bacteria multiply most rapidly in potentially hazardous foods."
+  },
+  {
+    "id": 439,
+    "domain": "food_provision",
+    "front": "What is the maximum combined time a time-temperature control for safety food should remain in the danger zone?",
+    "back": "A combined total of 4 hours, or a shorter facility-specific limit, from production through service."
+  },
+  {
+    "id": 440,
+    "domain": "food_provision",
+    "front": "What is the required cooling window for hot cooked food?",
+    "back": "From 60 to 20 degrees Celsius within 2 hours, and from 20 to 4 degrees Celsius within a further 4 hours, for a maximum total of 6 hours."
+  },
+  {
+    "id": 441,
+    "domain": "food_provision",
+    "front": "What internal temperature must reheated food reach for hot holding, and within what time frame?",
+    "back": "At least 74 degrees Celsius within 2 hours of the start of reheating."
+  },
+  {
+    "id": 442,
+    "domain": "food_provision",
+    "front": "What are the minimum standards for hot holding and cold holding of food?",
+    "back": "Hot holding must maintain food at or above 60 degrees Celsius; cold holding must maintain food at or below 4 degrees Celsius."
+  },
+  {
+    "id": 443,
+    "domain": "food_provision",
+    "front": "Why does placing a large batch of hot food into a large, deep container before refrigeration create a food safety risk?",
+    "back": "A large deep container slows heat transfer, so the centre of the food stays in the temperature danger zone longer than the allowed cooling window, allowing bacterial growth."
+  },
+  {
+    "id": 444,
+    "domain": "food_provision",
+    "front": "What is the correct storage order for raw proteins in a walk-in cooler?",
+    "back": "Ready-to-eat foods are stored above raw proteins, and raw proteins are stored from lowest required cooking temperature on top to highest (poultry and stuffed items) on the bottom."
+  },
+  {
+    "id": 445,
+    "domain": "food_provision",
+    "front": "Name Health Canada's recognized priority food allergens.",
+    "back": "Peanuts, tree nuts, milk, egg, soy, wheat and other gluten-containing cereals, sesame, fish, crustaceans and molluscs, mustard, and sulphites."
+  },
+  {
+    "id": 446,
+    "domain": "food_provision",
+    "front": "What is the purpose of colour-coded cutting boards in institutional food service?",
+    "back": "To physically separate raw and ready-to-eat foods and prevent cross-contamination during preparation."
+  },
+  {
+    "id": 447,
+    "domain": "food_provision",
+    "front": "What is a standardized recipe and why is it essential?",
+    "back": "A recipe specifying exact ingredient quantities, method, portion size, and yield; it links menu planning, procurement, nutrient analysis, and cost control together consistently."
+  },
+  {
+    "id": 448,
+    "domain": "food_provision",
+    "front": "What does the FIFO principle mean in inventory management?",
+    "back": "First-in, first-out: older stock must be used before newer stock of the same item to minimize spoilage and waste."
+  },
+  {
+    "id": 449,
+    "domain": "food_provision",
+    "front": "What is a par level in institutional food service inventory?",
+    "back": "The minimum quantity of an item that should be on hand before reordering, set based on delivery lead time, cycle demand, and a safety margin."
+  },
+  {
+    "id": 450,
+    "domain": "food_provision",
+    "front": "What should staff check when receiving a refrigerated or frozen food delivery?",
+    "back": "Quantity, quality, and temperature against the purchase order and specification, using a calibrated thermometer, and reject deliveries showing temperature abuse or damage."
+  },
+  {
+    "id": 451,
+    "domain": "food_provision",
+    "front": "What is a group purchasing organization in Canadian institutional food service?",
+    "back": "An arrangement where multiple health regions or facilities combine purchasing volume to negotiate lower unit costs from vendors."
+  },
+  {
+    "id": 452,
+    "domain": "food_provision",
+    "front": "Why should a large-batch recipe be tested at actual production volume rather than mathematically scaled up from a small recipe?",
+    "back": "Scaling changes surface-area-to-volume ratio, cooking time, seasoning perception, and equipment behaviour, so mathematically extrapolated recipes often perform differently at true volume."
+  },
+  {
+    "id": 453,
+    "domain": "food_provision",
+    "front": "What quality control methods are used at multiple points in institutional food production?",
+    "back": "Sensory evaluation of appearance, aroma, texture, and taste; portion control using standardized tools; and plate presentation checks."
+  },
+  {
+    "id": 454,
+    "domain": "food_provision",
+    "front": "What is a cook-chill production system?",
+    "back": "A system that prepares food in bulk, rapidly chills it under controlled time-temperature parameters, and transports it to satellite sites for reheating and service."
+  },
+  {
+    "id": 455,
+    "domain": "food_provision",
+    "front": "Why does cook-chill/cook-freeze production require especially rigorous HACCP adherence?",
+    "back": "The extended time between production and service, and multiple transfer points, create more opportunities for temperature abuse if not carefully controlled."
+  },
+  {
+    "id": 456,
+    "domain": "food_provision",
+    "front": "What is IDDSI?",
+    "back": "The International Dysphagia Diet Standardisation Initiative, the national Canadian framework for describing texture-modified foods and thickened liquids on one common scale."
+  },
+  {
+    "id": 457,
+    "domain": "food_provision",
+    "front": "How many levels does the IDDSI continuum have, and what range do they span?",
+    "back": "Eight levels, numbered 0 through 7, spanning both drinks and foods on a single scale from thin liquids to regular unmodified food."
+  },
+  {
+    "id": 458,
+    "domain": "food_provision",
+    "front": "What does IDDSI level 0 represent?",
+    "back": "Thin liquids, the least modified fluid consistency on the IDDSI continuum."
+  },
+  {
+    "id": 459,
+    "domain": "food_provision",
+    "front": "What does IDDSI level 4 represent?",
+    "back": "Extremely thick liquids or pureed foods, a consistency that cannot be drunk from a cup or eaten with a fork."
+  },
+  {
+    "id": 460,
+    "domain": "food_provision",
+    "front": "What does IDDSI level 6 represent?",
+    "back": "Soft and bite-sized food, requiring some chewing ability but no cutting with a knife."
+  },
+  {
+    "id": 461,
+    "domain": "food_provision",
+    "front": "What does IDDSI level 7 represent?",
+    "back": "Regular, easy to chew, or regular unmodified food, the least modified food texture on the continuum."
+  },
+  {
+    "id": 462,
+    "domain": "food_provision",
+    "front": "What is the IDDSI flow test used for?",
+    "back": "A bedside test using a 10-millilitre syringe to measure how much liquid remains after a fixed number of seconds, used to classify fluid thickness levels objectively."
+  },
+  {
+    "id": 463,
+    "domain": "food_provision",
+    "front": "What are the fork drip test and fork pressure test used for?",
+    "back": "Bedside tests used to classify texture-modified foods consistently by observing how food behaves under gentle pressure or dripping from a fork."
+  },
+  {
+    "id": 464,
+    "domain": "food_provision",
+    "front": "Why did Canada adopt IDDSI instead of facility-specific terms like 'minced' or 'mechanical soft'?",
+    "back": "Facility-specific terms varied inconsistently between institutions, creating serious risk when a resident transferred between facilities; IDDSI provides one standardized national scale."
+  },
+  {
+    "id": 465,
+    "domain": "food_provision",
+    "front": "What nutritional risk is strongly associated with pureed and thickened-fluid diets?",
+    "back": "Reduced palatability and acceptance, leading to higher risk of malnutrition and dehydration if not managed with nutrient-dense preparations and monitoring."
+  },
+  {
+    "id": 466,
+    "domain": "food_provision",
+    "front": "Who typically determines the appropriate IDDSI level for a resident, and what is the RD's role?",
+    "back": "A speech-language pathologist assesses swallowing and recommends the level; the RD translates this into food and fluid production and monitors nutrient and fluid adequacy."
+  },
+  {
+    "id": 467,
+    "domain": "food_provision",
+    "front": "What sustainability practice increases plant-based protein options in menu planning?",
+    "back": "Deliberately incorporating more legumes, tofu, and other plant proteins into cycle menus, aligned with Canada's Food Guide's emphasis on plant-based choices."
+  },
+  {
+    "id": 468,
+    "domain": "food_provision",
+    "front": "Name three points in food service operations where food waste commonly occurs.",
+    "back": "Over-production, plate waste from residents or patients, and spoilage from poor inventory rotation."
+  },
+  {
+    "id": 469,
+    "domain": "food_provision",
+    "front": "How is over-production food waste best addressed?",
+    "back": "Through better forecasting and more accurate portion planning based on historical demand and census."
+  },
+  {
+    "id": 470,
+    "domain": "food_provision",
+    "front": "How is plate waste best addressed in institutional food service?",
+    "back": "By improving menu acceptability and ensuring portions are appropriately sized for the population served."
+  },
+  {
+    "id": 471,
+    "domain": "food_provision",
+    "front": "What is a food waste diversion program?",
+    "back": "A program that directs unavoidable food waste to composting rather than landfill disposal."
+  },
+  {
+    "id": 472,
+    "domain": "food_provision",
+    "front": "What are the core requirements of halal food preparation?",
+    "back": "Meat from animals slaughtered according to Islamic law, and avoidance of pork and alcohol in preparation and ingredients."
+  },
+  {
+    "id": 473,
+    "domain": "food_provision",
+    "front": "What is required for kosher food preparation?",
+    "back": "Separation of meat and dairy, avoidance of certain species and preparation methods, often using pre-packaged products certified by a recognized kosher authority."
+  },
+  {
+    "id": 474,
+    "domain": "food_provision",
+    "front": "Why can a simple vegetarian or vegan diet plan be nutritionally inadequate if not carefully designed?",
+    "back": "Removing animal products without planning can leave gaps in protein, iron, vitamin B12, and omega-3 fatty acid intake; the diet must be planned for full nutrient adequacy."
+  },
+  {
+    "id": 475,
+    "domain": "food_provision",
+    "front": "What is the recommended approach for identifying cultural and religious dietary needs at intake?",
+    "back": "Asking residents or patients respectfully and specifically about their preferences and requirements, rather than assuming based on apparent background."
+  },
+  {
+    "id": 476,
+    "domain": "food_provision",
+    "front": "Why is cross-contact prevention important for halal and kosher accommodation?",
+    "back": "Shared equipment that has contacted non-permitted foods can compromise the religious status of an accommodated meal even if the ingredients themselves are correct."
+  },
+  {
+    "id": 477,
+    "domain": "food_provision",
+    "front": "What is a diet manual's role as a communication bridge?",
+    "back": "It translates a prescribing clinician's diet order into unambiguous nutrient parameters and food restrictions that food service staff can consistently produce."
+  },
+  {
+    "id": 478,
+    "domain": "food_provision",
+    "front": "What does 'time-temperature control for safety food' mean?",
+    "back": "A category of potentially hazardous foods, such as cooked meats, dairy, cooked rice, and cut melon, that requires strict time and temperature control to prevent pathogen growth."
+  },
+  {
+    "id": 479,
+    "domain": "food_provision",
+    "front": "What certified training is commonly required for food handlers in Canadian institutional kitchens?",
+    "back": "A recognized food handler certification course, such as FOODSAFE or an equivalent provincial program."
+  },
+  {
+    "id": 480,
+    "domain": "food_provision",
+    "front": "What is the difference between a perpetual and a periodic inventory system?",
+    "back": "Perpetual inventory tracks stock continuously as items are received and issued, while periodic inventory relies on physical counts taken at set intervals."
+  },
+  {
+    "id": 481,
+    "domain": "food_provision",
+    "front": "Why is portion control important beyond cost management?",
+    "back": "It ensures nutritional consistency, so that every resident on a given order receives the same intended nutrient content, not just the same cost per serving."
+  },
+  {
+    "id": 482,
+    "domain": "food_provision",
+    "front": "What is the significance of resident councils in long-term care menu planning?",
+    "back": "They give residents a formal channel to provide feedback on menus and food service, supporting person-centred care and improving acceptance and intake."
+  },
+  {
+    "id": 483,
+    "domain": "food_provision",
+    "front": "What minimum internal cooking temperature is commonly cited for poultry in Canadian food safety guidance?",
+    "back": "74 degrees Celsius, a widely used critical limit to eliminate pathogens such as Salmonella."
+  },
+  {
+    "id": 484,
+    "domain": "food_provision",
+    "front": "What is the purpose of verification procedures within a HACCP plan?",
+    "back": "To confirm the overall system is functioning as intended, such as through periodic calibration of thermometers or independent review of monitoring records."
+  },
+  {
+    "id": 485,
+    "domain": "food_provision",
+    "front": "Why must record-keeping be part of a HACCP system?",
+    "back": "It creates an auditable trail demonstrating that critical limits were monitored and corrective actions were taken when needed."
+  },
+  {
+    "id": 486,
+    "domain": "food_provision",
+    "front": "What is the recommended action if a critical limit is not met during monitoring?",
+    "back": "A predefined corrective action must be taken, such as discarding the food or reprocessing it, following the facility's HACCP plan."
+  },
+  {
+    "id": 487,
+    "domain": "food_provision",
+    "front": "How does cultural food accommodation relate to quality of life for long-term care residents?",
+    "back": "Food is closely tied to identity and comfort, and may be one of the few areas where residents can exercise meaningful autonomy and preference in their daily routine."
+  },
+  {
+    "id": 488,
+    "domain": "food_provision",
+    "front": "What is a product specification in procurement?",
+    "back": "A written document defining the exact quality, size, and packaging requirements a vendor must meet for a given food item."
+  },
+  {
+    "id": 489,
+    "domain": "food_provision",
+    "front": "What safety concern arises specifically with texture-modified thickened fluids if under-thickened?",
+    "back": "Fluids that are thinner than prescribed increase the risk of aspiration in residents with dysphagia."
+  },
+  {
+    "id": 490,
+    "domain": "food_provision",
+    "front": "Why should institutional menus plan for variety of colour, texture, and temperature within each meal?",
+    "back": "Sensory variety improves resident satisfaction and acceptance, which supports better actual nutrient intake."
+  },
+  {
+    "id": 491,
+    "domain": "food_provision",
+    "front": "What is the role of Diabetes Canada guidelines in institutional diet manuals?",
+    "back": "They provide the Canadian evidence-based reference for carbohydrate-consistent and diabetic diet parameters used in therapeutic diet manuals."
+  },
+  {
+    "id": 492,
+    "domain": "food_provision",
+    "front": "What is the role of Heart and Stroke Foundation guidance in cardiac diet planning?",
+    "back": "It provides the Canadian evidence-based reference for sodium restriction and cardiovascular-protective dietary parameters used in institutional cardiac diets."
+  },
+  {
+    "id": 493,
+    "domain": "food_provision",
+    "front": "Why should a renal diet order be reassessed if a resident develops unintended weight loss?",
+    "back": "Strict protein or nutrient restriction can worsen malnutrition risk, so the diet may need liberalization to prioritize adequate intake over strict biochemical control."
+  },
+  {
+    "id": 494,
+    "domain": "food_provision",
+    "front": "What is meant by 'plate waste study' as a menu evaluation tool?",
+    "back": "A structured observation of how much food residents or patients actually leave uneaten, used to identify menu items with poor acceptance."
+  },
+  {
+    "id": 495,
+    "domain": "food_provision",
+    "front": "Why should raw meat never be stored above ready-to-eat food in a cooler?",
+    "back": "Drip or leakage from raw meat could contaminate ready-to-eat food stored below it, so ready-to-eat items must be stored on higher shelves."
+  },
+  {
+    "id": 496,
+    "domain": "food_provision",
+    "front": "What is the main advantage of local and seasonal food sourcing in institutional food service?",
+    "back": "It reduces transportation-related environmental impact and supports the local economy, while often improving freshness."
+  },
+  {
+    "id": 497,
+    "domain": "food_provision",
+    "front": "What is the purpose of a tray ticket or electronic pick list in food service?",
+    "back": "It communicates the exact diet order, texture level, allergies, and preferences for an individual resident or patient to kitchen and tray-line staff at the point of assembly."
+  },
+  {
+    "id": 498,
+    "domain": "food_provision",
+    "front": "Why is seasoning intensity a concern when scaling a recipe to large batch volume?",
+    "back": "Some seasonings intensify while others become diluted relative to perception as volume increases, so seasoning must be adjusted and tested at true production scale."
+  },
+  {
+    "id": 499,
+    "domain": "food_provision",
+    "front": "What should a registered dietitian confirm before approving an accommodated cultural or religious menu?",
+    "back": "That the accommodated menu remains nutritionally adequate and that the accommodation is genuinely implemented in day-to-day production, not just documented on paper."
+  },
+  {
+    "id": 500,
+    "domain": "food_provision",
+    "front": "What does a facility's therapeutic diet manual need to define for every diet order?",
+    "back": "Its nutrient parameters, permitted and restricted foods, and any required texture or fluid modifications, in clear and measurable terms."
+  }
+]
